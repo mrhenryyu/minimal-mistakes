@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Henry Yu"
+title_separator          : " | "
+name                     : &name "Henry Yu"
+description              : &description "Henry Yu's Personal Website"
+url                      : "https://mrhenryyu@github.io" # the base hostname & protocol for your site 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "mrhenryyu/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "teaser_1.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : "TheHenryYu"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -67,6 +67,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    -   "https://www.facebook.com/TheHenryYu"
+    -   "https://github.com/mrhenryyu"
+    -   "https://ca.linkedin.com/in/mrhenryyu"
 
 # Analytics
 analytics:
@@ -77,24 +80,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Henry Yu"
+  avatar           : "Henry.jpg"
+  bio              : "Data Analyst, Neuroscientist, Tech Enthusiast"
+  location         : "Montreal, Canada"
+  email            : "henry.yu2@mail.mcgill.ca"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "TheHenryYu"
   foursquare       :
-  github           :
+  github           : "mrhenryyu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "mrhenryyu"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -107,10 +110,34 @@ author:
   youtube          :
 
 
+# Defaults 
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+#      related: true
+
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - ["_pages"]
+  - _posts
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -170,8 +197,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
