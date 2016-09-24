@@ -17,6 +17,11 @@ ONE TWO THREE
 
 
 This is the new homepage, hopefully everything works well. 
+
+Things I want on the homepage 
+Name, Greeting, Show the rest of the site 
+
+I am a neuroscience graduate, I enjoy X, Y, Z. My passions are a, b, c. I aspire about this. 
 [Testing](http://www.google.ca)
 
 
