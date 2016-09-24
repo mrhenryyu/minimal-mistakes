@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en"
 title                    : "Henry Yu"
-title_separator          : " | "
+title_separator          : " - "
 name                     : &name "Henry Yu"
-description              : &description "Henry Yu's Personal Website"
+description              : &description "Henry Yu's Personal Website. "
 url                      : "http://henryyu.me" # the base hostname & protocol for your site 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mrhenryyu/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -18,9 +18,9 @@ teaser                   : "teaser_1.jpg" # filename of teaser fallback teaser i
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "henryyu-me" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "g9f-56mkBN7cs5cl2kc791LQ0rWoQFjJ3fnf7SE9t-c"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-84652788-1"
 
 
 # Site Author
