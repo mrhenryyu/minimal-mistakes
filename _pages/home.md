@@ -7,7 +7,7 @@ author_profile: false
 excerpt: "My name is Henry Yu"
 title: "Welcome to my website"
 header:
-    overlay_image: Large Cover.jpg
+    overlay_image: henry_reduced.jpg
     caption: "Photo Credit: Samuel Miriello"
 <!--    overlay_filter: rgba(255, 0, 0, 0.5)-->
     

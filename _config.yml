@@ -119,6 +119,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
   # _posts
   - scope:
       path: ""
@@ -130,6 +131,10 @@ defaults:
       comments: true
       share: true
 #      related: true
+# If you want a default sidebar
+#    values:
+#      sidebar:
+#        nav: "docs"
 
 # Reading Files
 include:
