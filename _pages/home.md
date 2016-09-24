@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 date:
-author_profile: true
+author_profile: false
 
 excerpt: "**This is the excerpt**. "
 title: Home
