@@ -7,6 +7,16 @@
 #    url: /
     
 main:
+  - title: "About Me"
+    url: /about/
+    children:
+      - title: "Studies"
+        url: /about/studies
+      - title: "Interests"
+        url: /about/interests
+      - title: "Hobbies"
+        url: /about/hobbies
+        
   - title: "Projects"
     url: /projects/
     children:
@@ -15,12 +25,9 @@ main:
       - title: "Project 2"
         url: /projects/project2/
 
-  - title: "About"
-    url: /about/
-
 
   - title: "Contact"
     url: /contact/
     
-  - title: "Blog"
+  - title: "My Blog"
     url: /posts/
