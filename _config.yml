@@ -11,7 +11,7 @@ title                    : "Henry Yu"
 title_separator          : " | "
 name                     : &name "Henry Yu"
 description              : &description "Henry Yu's Personal Website"
-url                      : "https://mrhenryyu@github.io" # the base hostname & protocol for your site 
+url                      : "https://henryyu.me/" # the base hostname & protocol for your site 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mrhenryyu/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "teaser_1.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
