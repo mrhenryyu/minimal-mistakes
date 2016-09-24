@@ -4,11 +4,11 @@ permalink: /
 date:
 author_profile: false
 
-excerpt: "**This is the excerpt**. "
-title: Home
+excerpt: "My name is Henry Yu"
+title: "Welcome to my website"
 header:
-    overlay_image: teaser_1.jpg
-    caption: "Photo Credit: [**Unsplash**](http://unsplash.com)"
+    overlay_image: Large Cover.jpg
+    caption: "Photo Credit: Samuel Miriello"
 <!--    overlay_filter: rgba(255, 0, 0, 0.5)-->
     
 ---
