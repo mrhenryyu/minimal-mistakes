@@ -28,6 +28,8 @@ I am going to teach you a few things
 1. How to make a list 
 2. How to create headers 
 3. How to add links 
+Links are the easiest to show. Here is a sample [link](https://www.google.ca) that links to Google. 
+They are easy to bring `inline` to your text. 
 4. How to add photos 
 5. How to add code to your Jekyll Article 
 
@@ -36,5 +38,9 @@ This be done by using
     `inline code snippit` 
     
 6. Tags, authors, sidebar etc. 
+
+Tags, Authors and Sidebars are all created in your FAML (front matter) 
+They have corresponding values to each tag 
+
 
 
