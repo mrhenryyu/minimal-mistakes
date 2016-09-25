@@ -13,11 +13,25 @@ header:
     
 ---
 
-# How to write a Blog Post using Jekyll
+# How to write a Blog Post using Kramdown 
 
-Good morning, 
+## Good Morning 
 
-This is how you write a Jekyll article. It is not so different than writing on a notebook. Writing an article using Jekyll is very easy, and once you have learned all of the different formats and tools, it is faster than writing on Wordpress of other website creators. 
+If you are reading this, you are probably interested in learning how to write a web post using [Kramdown] (http://kramdown.gettalong.org/quickref.html#inline-attributes). This guide is going to teach you the beginner skills for everyday blog posts, however if you want to learn more complex concepts, there are other guide linked at the end of this article. 
+
+To learn how to get your own website hosted by Github Pages, check out this [guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). 
+
+## Table of Contents 
+In this guide, we will go through 
+1. Headers + **fonts**
+2. Lists (ordered and unordered)
+3. [links](https://jekyllrb.com/docs/github-pages/)
+4. Photos 
+5. Code Snippits
+6. Authors, Tags, Sidebar, Miscellaneous 
+
+### Headers 
+
 
 ## Another header 
 
