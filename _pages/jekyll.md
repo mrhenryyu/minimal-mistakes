@@ -8,12 +8,12 @@ categories: [Miscellaneous]
 tags: [Jekyll, Guide]
 comments: true
 header:
-    overlay_image: teaser_1.jpg  
+    overlay_image: bamboo.jpg  
 
     
 ---
 
-# How to write a Jekyll Article 
+# How to write a Blog Post using Jekyll
 
 Good morning, 
 
