@@ -3,7 +3,9 @@ layout: single
 permalink: /guide/
 author_profile: true
 title: "How to write a Jekyll article"
-
+date: 2016-09-24 12:00:00 -0400
+categories: [Miscellaneous]
+tags: [Jekyll, Guide]
 header:
     overlay_image: teaser_1.jpg  
 
