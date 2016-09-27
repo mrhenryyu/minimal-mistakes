@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /guide/
+permalink: /guide/jekyll
 author_profile: true
 title: "How to write a Jekyll article"
 date: 2016-09-24 12:00:00 -0400
@@ -17,7 +17,8 @@ header:
 
 ## Blog Writing **101**
 
-If you are reading this, you are probably interested in learning how to write a web post using [Kramdown](http://kramdown.gettalong.org/quickref.html#inline-attributes). This guide is going to teach you the beginner skills for everyday blog posts, however if you want to learn more complex concepts, there are other guide linked at the end of this article. 
+If you are reading this, you are probably interested in learning how to write a web post using [Kramdown](http://kramdown.gettalong.org/quickref.html#inline-attributes). This guide is going to teach you the beginner skills for everyday blog posts, however if you want to learn more complex concepts, there are other guide linked at the *end of this article*{: style="color: red"}. 
+
 
 To learn how to get your own website hosted by Github Pages, check out this [guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). 
 
@@ -29,7 +30,7 @@ In this guide, we will go through
 3. [links](https://jekyllrb.com/docs/github-pages/)
 4. Photos 
 5. `Code Snippits`
-6. Authors, Tags, Sidebar, Miscellaneous 
+
 
 ## 1. Headers 
 Headers can be added into the article by using `# ` before a header. Headers can have different sizes.  
@@ -66,11 +67,27 @@ e.g.
 2. Two
 3. Three
 
+~~~
+1. One 
+    1. A
+    2. B
+    3. C
+2. Two
+3. Three
+~~~
+
 ### Unordered Lists 
 * Do you like 
 * green eggs and ham. 
 * I do not like them 
 * Sam - I - am 
+
+~~~
+* Do you like 
+* green eggs and ham. 
+* I do not like them 
+* Sam - I - am 
+~~~
 
 Within your lists, you can also add different things, such as `code blocks`, *italics* and [links](http://henryyu.me/guide/)
 
@@ -85,28 +102,43 @@ Block Quotes can be inserted using the `>` key
 
 > I am a quote! 
 
+## 4. Photos 
 
+Photos can be added using `![image](/images/image.jpg)` 
+
+For example, 
+
+![image](/images/Henry.jpg)
+
+![image-left](/images/Henry.jpg){: .align-left} 
+You can also orient your images however you like, for example, it can align to the left or right of your text. The The rest of this text is to fill up the rest of the space or else your the code will continue to wrap the text until the end of the image. Do not use this with code blocks, as the code block will go over the image. `Code snippits are okay` as well as other inline text markups. **For more image tricks, you can read this** [guide](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/).
 
 ~~~ ruby
-def what?
-  42
-end
+    ![image](/images/Henry.jpg)
+    ![image-left](/images/Henry.jpg){: .align-left} 
 ~~~
 
+## 5. Code Blocks and Snippits 
 
-Links are the easiest to show. Here is a sample [link](https://www.google.ca) that links to Google. 
-They are easy to bring `inline` to your text. 
-4. How to add photos 
-5. How to add code to your Jekyll Article 
+Code snippits and code blocks are easy ways display code or highlight an important point on your website. 
 
-There are two ways to have your code in a Kramdown blog post, the first is an `inline code snippit` 
-This be done by using 
-    `inline code snippit` 
+#### Code Snippit
+
+~~~ ruby 
+    `This is a code snippit`
+~~~
+
+#### This is a code block
+
+~~~ ruby
+    ~~~ ruby 
+        `This is a code snippit`
+    ~~~
+~~~
     
-6. Tags, authors, sidebar etc. 
 
-Tags, Authors and Sidebars are all created in your FAML (front matter) 
-They have corresponding values to each tag 
+Thank you for reading this article. Please **comment** if you have any questions or suggests for future guides. At some point in the future, I will be covering more advanced topics such as **side-bars, table of contents, text colors and site customization**. 
+
 
 
 

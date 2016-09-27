@@ -5,7 +5,7 @@ date:
 author_profile: false
 
 excerpt: "My name is Henry Yu"
-title: "Welcome to my website"
+title: "Home"
 header:
     overlay_image: henry_reduced.jpg  
     caption: "Photo Credit: Samuel Miriello"
