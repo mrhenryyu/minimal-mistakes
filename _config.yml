@@ -130,6 +130,20 @@ defaults:
       read_time: true
       comments: true
       share: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+# Portfolio Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 #      related: true
 # If you want a default sidebar
 #    values:
@@ -142,6 +156,7 @@ include:
   - _pages
   - ["_pages"]
   - _posts
+  - _portfolio
   
 exclude:
   - "*.sublime-project"
