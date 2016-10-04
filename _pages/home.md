@@ -4,8 +4,14 @@ permalink: /
 date:
 author_profile: false
 
-excerpt: "My name is Henry Yu"
-title: "Home"
+excerpt: 
+    "My name is Henry Yu.
+    Welcome to my website. Please take a look into what makes me me and check out what you would like for yourself.
+    If you need to contact me, you can find my contact information. 
+    Lastly, I would like to thank you for spending some time. I really appreciate comments.
+    
+    Cheers!"
+title: "Hello!"
 header:
     overlay_image: henry_reduced.jpg  
     caption: "Photo Credit: Samuel Miriello"
@@ -29,13 +35,8 @@ Section 3: Blog
 Latest Articles / Guides 
 
 Check out my guide on making a website, and my McGillian guide on Montreal
-<!--
 
----
-layout: splash
-author_profile: false
----
--->
+
 
 <!--
 {% include base_path %}
