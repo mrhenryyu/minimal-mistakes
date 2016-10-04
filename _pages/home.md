@@ -8,7 +8,8 @@ author_profile: false
 
 excerpt: 
     "
-    
+    <br>
+    <br>
     My name is [Henry Yu](#){: .btn .btn--small}.<br>
     Welcome to my **website**{: .purple}. <br>
     I'm happy to share my **experiences**{: .brown} with you. <br>
@@ -22,12 +23,14 @@ excerpt:
     I am a **tech enthusiast**{: .orange} and passionate about **fitness**{: .green}. <br>
     My hobbies include **swimming**{: .blue}, **politics**{: #red .red} and **economics**{: .brown}. <br> 
     Learn more about my [interests](/about){: .btn .btn--warning .btn--small}<br>
-    
+    <br>
+    <br>
+    <br>
     Lastly, I write about my **daily experiences**{: .orange} on this website, <br>
     and you can check out my [blog](/blog){: .btn .btn--danger .btn--small}<br>
     
     "
-title: "Hello!"
+title: "Hello."
 header:
     overlay_image: henry_wide.jpg 
     caption: "Photo Credit: Samuel Miriello"
