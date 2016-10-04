@@ -6,11 +6,14 @@ author_profile: false
 
 excerpt: 
     "My name is Henry Yu.
-    Welcome to my website. <br>
+    
+    Welcome to my website. 
     Please take a look into what makes me me and check out what you would like for yourself. <br>
     
-    If you need to contact me, you can find my contact information. <br>
-    Lastly, I would like to thank you for spending some time. I really appreciate comments.<br>
+    If you need to contact me, you can find my contact information. <br> \n
+    Lastly, I would like to thank you for spending some time. I really appreciate comments.<br>\n
+    
+    I would like to thank your taking the time. In the header, I have blogs, and everything. If you have any questions, let me know! 
     
     
     Cheers!"
