@@ -10,20 +10,20 @@ excerpt:
     "
     
     My name is [Henry Yu](#){: .btn .btn--small}.<br>
-    Welcome to my **website**{: #red .red}. <br>
-    I'm happy to share my **experiences**{: #red .red} with you. <br>
+    Welcome to my **website**{: .purple}. <br>
+    I'm happy to share my **experiences**{: .brown} with you. <br>
     <br> 
     <br>
-    I am an aspiring **data analyst**. <br>
-    I studied **Neuroscience** and **Finance** at **McGill University**<br>
+    I am an aspiring **data analyst**{: .blue}. <br>
+    I studied **Neuroscience**{: .purple} and **Finance**{: .green} at **McGill University**{: #red .red}<br>
     Feel free to check out my [skills & experiences](/about){: .btn .btn--success .btn--small}<br>
     <br>
     <br>
-    I am a **tech enthusiast** and passionate about fitness. <br>
-    My hobbies include swimming, politics and economics. <br> 
+    I am a **tech enthusiast**{: .orange} and passionate about **fitness**{: .green}. <br>
+    My hobbies include **swimming**{: .blue}, **politics**{: #red .red} and **economics**{: .brown}. <br> 
     Learn more about my [interests](/about){: .btn .btn--warning .btn--small}<br>
     
-    Lastly, I write about my daily experiences on this website, <br>
+    Lastly, I write about my **daily experiences**{: .orange} on this website, <br>
     and you can check out my [blog](/blog){: .btn .btn--danger .btn--small}<br>
     
     "
