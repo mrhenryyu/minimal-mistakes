@@ -1,4 +1,6 @@
 ---
+Random Sentence{: .blue}
+
 layout: splash
 permalink: /
 date:
@@ -6,22 +8,23 @@ author_profile: false
 
 excerpt: 
     "
-    My name is Henry Yu. <br>
-    Welcome to my website. <br>
-    I'm happy to share experiences with you. <br>
+    Random Sentence{: .blue}
+    My name is [Henry Yu](#){: .btn .btn--small}.<br>
+    Welcome to my **website**. <br>
+    I'm happy to share my **experiences** with you. <br>
     <br> 
-    
-    I am an aspiring data analyst. <br>
-    I majored in Neuroscience and minored in Finance at McGill University<br>
-    You can check out my [skills and experience](/about){: .btn .btn--success}<br>
     <br>
-    
-    I am a tech enthusiast and passionate about fitness. <br>
+    I am an aspiring **data analyst**. <br>
+    I studied **Neuroscience** and **Finance** at **McGill University**<br>
+    Feel free to check out my [skills & experiences](/about){: .btn .btn--success .btn--small}<br>
+    <br>
+    <br>
+    I am a **tech enthusiast** and passionate about fitness. <br>
     My hobbies include swimming, politics and economics. <br> 
-    Check out more about my [interests](/about){: .btn .btn--success}<br>
+    Learn more about my [interests](/about){: .btn .btn--warning .btn--small}<br>
     
-    Lastly, I blog my daily experiences on this website, <br>
-    and I hope you enjoy my [writing](/blog){: .btn .btn--success}<br>
+    Lastly, I write about my daily experiences on this website, <br>
+    and you can check out my [blog](/blog){: .btn .btn--danger .btn--small}<br>
     
     "
 title: "Hello!"
