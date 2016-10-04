@@ -5,9 +5,12 @@ date:
 author_profile: false
 
 excerpt: 
-    "My name is Henry Yu.
+    "
+    My name is Henry Yu. <br>
+    Welcome to my website. <br>
+    Welcome to my life. <br>
+    <br> 
     
-    Welcome to my website. 
     Please take a look into what makes me me and check out what you would like for yourself. <br>
     
     If you need to contact me, you can find my contact information. <br> \n
@@ -23,6 +26,7 @@ header:
     caption: "Photo Credit: Samuel Miriello"
 <!--    overlay_filter: rgba(255, 0, 0, 0.5)-->
     
+<!-- Add Gallary -->
 ---
 
 Welcome to my personal website! My name is Henry Yu.
