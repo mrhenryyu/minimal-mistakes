@@ -29,7 +29,7 @@ excerpt:
     "
 title: "Hello!"
 header:
-    overlay_image: henry_new.png 
+    overlay_image: henry_wide.jpg 
     caption: "Photo Credit: Samuel Miriello"
     
 ---
