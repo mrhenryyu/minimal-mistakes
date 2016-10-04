@@ -35,6 +35,11 @@ header:
     overlay_image: henry_wide.jpg
     caption: "Photo Credit: Samuel Miriello"
     
+feature_row:
+  - image_path: /home/tie.png
+    alt: skills and education
+    Title: Skills and Education
+    Excerpt: 
 ---
 
 Welcome to my personal website! My name is Henry Yu.
