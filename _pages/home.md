@@ -26,7 +26,6 @@ header:
     caption: "Photo Credit: Samuel Miriello"
 <!--    overlay_filter: rgba(255, 0, 0, 0.5)-->
     
-<!-- Add Gallary -->
 ---
 
 Welcome to my personal website! My name is Henry Yu.
