@@ -8,11 +8,10 @@ author_profile: false
 
 excerpt: 
     "
-    *Random Sentence*{: #red .red}
     
     My name is [Henry Yu](#){: .btn .btn--small}.<br>
-    Welcome to my **website**. <br>
-    I'm happy to share my **experiences** with you. <br>
+    Welcome to my **website**{: #red .red}. <br>
+    I'm happy to share my **experiences**{: #red .red} with you. <br>
     <br> 
     <br>
     I am an aspiring **data analyst**. <br>
