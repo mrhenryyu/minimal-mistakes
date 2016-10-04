@@ -17,14 +17,11 @@ excerpt:
     Lastly, I would like to thank you for spending some time. I really appreciate comments.<br>\n
     
     I would like to thank your taking the time. In the header, I have blogs, and everything. If you have any questions, let me know! 
-    
-    
-    Cheers!"
+    "
 title: "Hello!"
 header:
     overlay_image: henry_reduced.jpg  
     caption: "Photo Credit: Samuel Miriello"
-<!--    overlay_filter: rgba(255, 0, 0, 0.5)-->
     
 ---
 
