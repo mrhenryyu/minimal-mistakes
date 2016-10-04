@@ -8,15 +8,21 @@ excerpt:
     "
     My name is Henry Yu. <br>
     Welcome to my website. <br>
-    Welcome to my life. <br>
+    I'm happy to share experiences with you. <br>
     <br> 
     
-    Please take a look into what makes me me and check out what you would like for yourself. <br>
+    I am an aspiring data analyst. <br>
+    I majored in Neuroscience and minored in Finance at McGill University<br>
+    You can check out my [skills and experience](/about){: .btn .btn--success}<br>
+    <br>
     
-    If you need to contact me, you can find my contact information. <br> \n
-    Lastly, I would like to thank you for spending some time. I really appreciate comments.<br>\n
+    I am a tech enthusiast and passionate about fitness. <br>
+    My hobbies include swimming, politics and economics. <br> 
+    Check out more about my [interests](/about){: .btn .btn--success}<br>
     
-    I would like to thank your taking the time. In the header, I have blogs, and everything. If you have any questions, let me know! 
+    Lastly, I blog my daily experiences on this website, <br>
+    and I hope you enjoy my [writing](/blog){: .btn .btn--success}<br>
+    
     "
 title: "Hello!"
 header:
