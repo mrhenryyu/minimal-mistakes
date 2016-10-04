@@ -11,28 +11,28 @@ excerpt:
     <br>
     <br>
     My name is [Henry Yu](#){: .btn .btn--small}.<br>
-    Welcome to my **website**{: .purple}. <br>
-    I'm happy to share my **experiences**{: .brown} with you. <br>
+    Welcome to my **website**. <br>
+    I'm happy to share my **experiences**{: .black} with you. <br>
     <br> 
     <br>
-    I am an aspiring **data analyst**{: .blue}. <br>
-    I studied **Neuroscience**{: .purple} and **Finance**{: .green} at **McGill University**{: #red .red}<br>
+    I am an aspiring **data analyst**{: .black}. <br>
+    I studied **Neuroscience**{: .black} and **Finance**{: .black} at **McGill University**{: #red .red}<br>
     Feel free to check out my [skills & experiences](/about){: .btn .btn--success .btn--small}<br>
     <br>
     <br>
-    I am a **tech enthusiast**{: .orange} and passionate about **fitness**{: .green}. <br>
-    My hobbies include **swimming**{: .blue}, **politics**{: #red .red} and **economics**{: .brown}. <br> 
+    I am a **tech enthusiast** and passionate about **fitness**. <br>
+    My hobbies include **swimming**{: .black}, **politics**{: .black} and **economics**{: .black}. <br> 
     Learn more about my [interests](/about){: .btn .btn--warning .btn--small}<br>
     <br>
     <br>
     <br>
-    Lastly, I write about my **daily experiences**{: .orange} on this website, <br>
+    Lastly, I write about my **daily experiences**{: .red} on this website, <br>
     and you can check out my [blog](/blog){: .btn .btn--danger .btn--small}<br>
     
     "
 title: "Hello."
 header:
-    overlay_image: henry_wide.jpg 
+    overlay_image: henry_wide.jpg
     caption: "Photo Credit: Samuel Miriello"
     
 ---
