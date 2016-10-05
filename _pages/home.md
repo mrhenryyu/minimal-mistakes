@@ -45,6 +45,20 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /home/pencil.png
+    alt: "placeholder image 3"
+    title: "Blog"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /home/lighthouse.png
+    alt: "placeholder image 4"
+    title: "Guide"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 Welcome to my personal website! My name is Henry Yu.
