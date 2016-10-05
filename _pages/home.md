@@ -12,7 +12,7 @@ excerpt: "
     <br>
     <br>
     My name is [Henry Yu](#){: .btn .btn--small}.<br>
-    Welcome to my **website**{: .black}. <br>
+    Welcome to my **website**. <br>
     I'm happy to share my **experiences** with you. <br>
     <br> 
     <br>
@@ -26,9 +26,8 @@ excerpt: "
     Learn more about my [interests](/about){: .btn .btn--warning .btn--small}<br>
     <br>
     <br>
-    <br>
     Lastly, I write about my **daily experiences** on this website, <br>
-    and you can check out my [blog](/blog){: .btn .btn--danger .btn--small}<br>"
+    and you can check out my [blog](/blog){: .btn .btn--danger .btn--small}"
 
 feature_row:
   - image_path: /home/tie.png
@@ -37,10 +36,10 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "/about"
     btn_label: "Skills + Education" 
-    btn_class: "btn--inverse"
+    btn_class: "btn--success"
   - image_path: /home/bishop.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
+    alt: "Interests and Hobbies"
+    title: "Hobbies and Interests"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
@@ -52,6 +51,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+feature_row2:
   - image_path: /home/lighthouse.png
     alt: "placeholder image 4"
     title: "Guide"
@@ -59,22 +59,21 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+    
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 ---
 
 Welcome to my personal website! My name is Henry Yu.
 
 > The Purpose of my website is for you to get to know me more than what is written on my resume. 
 
-My website is divided up into sections 
 
-[Testing](http://www.google.ca)
 
-Section 1 : Skills etc. (resume)
-Section 2: Interests 
 
 {% include feature_row %}
-Newly put sentence
-Section 3: Blog 
+
+{% include feature_row id="feature_row2" type="left" %}
 
 Latest Articles / Guides 
 
