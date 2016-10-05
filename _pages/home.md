@@ -8,6 +8,10 @@ title: "Hello."
 header:
     overlay_image: henry_wide.jpg
     caption: "Photo Credit: Samuel Miriello"
+    
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in     diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  
 excerpt: "
     <br>
     <br>
@@ -59,9 +63,6 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-    
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 ---
 
 Welcome to my personal website! My name is Henry Yu.
