@@ -24,7 +24,7 @@ feature_row:
     title: Resume / Curriculum Vitae
     excerpt: "Coming from a neuroscience and finance background, my skillset is adaptable to **numerous industries**."
     url: "/about"
-    btn_label: "Skills & Education" 
+    btn_label: "Resume / C.V." 
     btn_class: "btn--success"
 ---
 
@@ -41,7 +41,7 @@ feature_row:
 -->
 {% include toc title="My Table of Contents" %}
 
-{% include feature_row %}
+{% include feature_row type="center"%}
 
 
 ## Welcome to my Personal Page 
