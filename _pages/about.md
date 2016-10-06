@@ -40,7 +40,16 @@ skills_experience:
     excerpt: "A comprehensive list of my educational background, work and research experience, extracurricular and volunteer activities."
     url: "/about/experience"
     btn_label: "Education & Experience" 
-    btn_class: "btn--success"
+    btn_class: "btn--danger"
+
+interests:
+  - image_path: /home/tie.png
+    alt: "Interests & Hobbies"
+    title: Interests & Hobbies
+    excerpt: "A glimpse into my personality and the things I enjoy."
+    url: "/about/interests"
+    btn_label: "Interests & Hobbies" 
+    btn_class: "btn"
     
 ---
 
@@ -55,26 +64,32 @@ skills_experience:
     RESUM
     
 -->
-{% include toc title="My Table of Contents" %}
+{% include toc title="About Henry" %}
 
 ## Welcome to my Personal Page 
 
+## Resume
 {% include feature_row id="resume" type="left" %}
 
+## Skills & Experience
 {% include feature_row id="skills_experience" %}
 
-## Welcome to my Personal Page 
+## Hobbies and Interests
+{% include feature_row id="interests" type="left" %}
 
 
-Here I will discuss my passions
+## Goals 
 
-The purpose of this page is for you to get to know more than what my resume says. You can find my resume [here](/)
+>People with goals **succeed** because they know where they're going (**Earl Nightingale**)
 
-This section is divided into 3 sections: 
+Every single person has dreams, ambitions and goals. Various things that they wish were different, aspirations that they spend all night thinking about. However, only 3 out of every 100 adults actually **write down** their goals and aspirations on paper. 
 
-Hobbies
+Since people who have written down their goals are **50% more likely** to achieve their goals, it is important for me to write down my short term and long term goals. Through formulating your goals on paper, you are able to formulate a "goal plan". This is the **first step** in achieving your goals. 
 
-Skills 
+### **Long Term Goal**{: .red}: Become a successful individual in an industry that involves data, technology and finance. 
+My eventual goal is to develop a steady career for myself in an industry that I am passionate about, and doing something that I love. Although vague, I envision myself working a technical job and doing something that involves a mix of science, technology and finance. I am willing to put in the hard work and planning in order to make this dream a reality. 
 
-Ideologies/Views
+### **Five Year Goal***{: .red}: Become a data analyst for a reputable company and work in various work environments / locations 
+Within these next 5 years, I want to start to begin creating a name and a career for myself. AS my core competency is in research and analysis, being a data analyst is the right fit for me. 
+
 

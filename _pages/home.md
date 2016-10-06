@@ -66,6 +66,8 @@ feature_row2:
 
 # Greetings! 
 
+{% include feature_row id="intro" type="center" %}
+
 > *Thank you* for taking time out of your day to check out my website. The purpose of my website is for you, the reader, to learn more about me than what is written on my resume and my Linked-In profile. I hope that I show my **skills, education, passions, goals and opinions** through my website and blog. Feel free to check out any of the sections below. 
 
 
