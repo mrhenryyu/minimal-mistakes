@@ -14,7 +14,9 @@ header:
 
 ## Contact me
 
-If you have any questions, comments, or inquiries, please don't hesitate to 
+If you have any questions, comments, or inquiries, please don't hesitate to contact me. You can contact me through my email or through any form of social media (*links are located on the left, undere my profile picture*)
+Please allow up to 1 business day for a response. 
+
 
 
 

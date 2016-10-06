@@ -6,17 +6,31 @@ excerpt: "About me"
 permalink: /about/
 
 header:
-    overlay_image: teaser_1.jpg
+    overlay_image: /about/old_profile.jpg
     
-sidebar:
-    nav:"foo"
-author_profile: false
+feature_row:
+  - image_path: /home/tie.png
+    alt: "Education"
+    title: Skills & Education
+    excerpt: "Coming from a neuroscience and finance background, my skillset is adaptable to **numerous industries**."
+    url: "/about"
+    btn_label: "Skills & Education" 
+    btn_class: "btn--success"
 ---
 
-
+<!--feature row 
+    This feature row is to have 4 feature rows with links to showcase my different qualities. 1: Education and training, 
+    2. Skills, 3. experience, 4, extracurriculars : all bundled under skills + education 
+    Next: Interests + hobbies
+        Sports Played: Go to the gym : Fitness, swimming (instructor) + first aid instructor 
+    Resume (FIRST), clear, concise way list 
+    Next: Get to know me, FAQ, views, opinions 
+    Lastly: Goals, ambitions, dreams 
+    
+-->
 {% include toc title="My Table of Contents" %}
 
-{% include nav_list nav="foo" %}
+
 
 
 ## Welcome to my Personal Page 
