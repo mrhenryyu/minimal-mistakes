@@ -10,7 +10,6 @@ excerpt: "
     <br>
     <br>
     <br>
-    <br>
 "
 
 permalink: /about/
@@ -22,10 +21,27 @@ feature_row:
   - image_path: /home/tie.png
     alt: "Resume"
     title: Resume / Curriculum Vitae
+    excerpt: "A quick and concise rundown of my CV. 1 page format tailored to finance and tech industries."
+    url: "/about/resume"
+    btn_label: "Resume / C.V." 
+    btn_class: "btn--success"
+    
+feature_row2:
+  - image_path: /home/tie.png
+    alt: "Resume"
+    title: Resume / Curriculum Vitae
     excerpt: "Coming from a neuroscience and finance background, my skillset is adaptable to **numerous industries**."
     url: "/about"
     btn_label: "Resume / C.V." 
     btn_class: "btn--success"
+  - image_path: /home/tie.png
+    alt: "Resume"
+    title: Resume / Curriculum Vitae
+    excerpt: "Coming from a neuroscience and finance background, my skillset is adaptable to **numerous industries**."
+    url: "/about"
+    btn_label: "Resume / C.V." 
+    btn_class: "btn--success"
+    
 ---
 
 <!--feature row 
@@ -41,8 +57,8 @@ feature_row:
 -->
 {% include toc title="My Table of Contents" %}
 
-{% include feature_row type="center"%}
-
+{% include feature_row type="left" %}
+{% include feature_row id="feature_row2" %}
 
 ## Welcome to my Personal Page 
 
