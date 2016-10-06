@@ -17,7 +17,7 @@ permalink: /about/
 header:
     overlay_image: /about/old_profile.jpg
     
-feature_row:
+resume:
   - image_path: /home/tie.png
     alt: "Resume"
     title: Resume / Curriculum Vitae
@@ -26,20 +26,20 @@ feature_row:
     btn_label: "Resume / C.V." 
     btn_class: "btn--success"
     
-feature_row2:
+skills_experience:
   - image_path: /home/tie.png
-    alt: "Resume"
-    title: Resume / Curriculum Vitae
-    excerpt: "Coming from a neuroscience and finance background, my skillset is adaptable to **numerous industries**."
-    url: "/about"
-    btn_label: "Resume / C.V." 
-    btn_class: "btn--success"
+    alt: "Skills"
+    title: Skills
+    excerpt: "After 16 years of Canadian education, here are my skills and core competencies."
+    url: "/about/skills"
+    btn_label: "Skills" 
+    btn_class: "btn--warning"
   - image_path: /home/tie.png
-    alt: "Resume"
-    title: Resume / Curriculum Vitae
-    excerpt: "Coming from a neuroscience and finance background, my skillset is adaptable to **numerous industries**."
-    url: "/about"
-    btn_label: "Resume / C.V." 
+    alt: "Education and Experience"
+    title: Education & Experience
+    excerpt: "A comprehensive list of my educational background, work and research experience, extracurricular and volunteer activities."
+    url: "/about/experience"
+    btn_label: "Education & Experience" 
     btn_class: "btn--success"
     
 ---
@@ -57,8 +57,11 @@ feature_row2:
 -->
 {% include toc title="My Table of Contents" %}
 
-{% include feature_row type="left" %}
-{% include feature_row id="feature_row2" %}
+## Welcome to my Personal Page 
+
+{% include feature_row id="resume" type="left" %}
+
+{% include feature_row id="skills_experience" %}
 
 ## Welcome to my Personal Page 
 
