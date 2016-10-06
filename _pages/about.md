@@ -1,7 +1,17 @@
 ---
-title: "About"
+title: "**About Me**{: .black}"
 layout: single
-excerpt: "About me"
+excerpt: "
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+"
 
 permalink: /about/
 
@@ -10,8 +20,8 @@ header:
     
 feature_row:
   - image_path: /home/tie.png
-    alt: "Education"
-    title: Skills & Education
+    alt: "Resume"
+    title: Resume / Curriculum Vitae
     excerpt: "Coming from a neuroscience and finance background, my skillset is adaptable to **numerous industries**."
     url: "/about"
     btn_label: "Skills & Education" 
@@ -26,11 +36,12 @@ feature_row:
     Resume (FIRST), clear, concise way list 
     Next: Get to know me, FAQ, views, opinions 
     Lastly: Goals, ambitions, dreams 
+    RESUM
     
 -->
 {% include toc title="My Table of Contents" %}
 
-
+{% include feature_row %}
 
 
 ## Welcome to my Personal Page 
