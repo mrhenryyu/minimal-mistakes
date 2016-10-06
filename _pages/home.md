@@ -26,7 +26,7 @@ excerpt: "
     <br>
     I am a **tech enthusiast** and passionate about **fitness**. <br>
     My hobbies include **swimming**, **politics** and **economics**. <br> 
-    Learn more about my [interests](/about){: .btn .btn--warning .btn--small}<br>
+    Learn more about my [hobbies & interests](/about){: .btn .btn--warning .btn--small}<br>
     <br>
     <br>
     Lastly, I write about my **daily experiences** on this website, <br>
@@ -34,39 +34,39 @@ excerpt: "
 
 feature_row:
   - image_path: /home/tie.png
-    alt: "Skills and Education"
-    title: Skills and Education
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Skills & Education"
+    title: Skills & Education
+    excerpt: "Coming from a neuroscience and finance background, my skillset is adaptable to **numerous industries**."
     url: "/about"
-    btn_label: "Skills + Education" 
+    btn_label: "Skills & Education" 
     btn_class: "btn--success"
   - image_path: /home/bishop.png
-    alt: "Interests and Hobbies"
-    title: "Hobbies and Interests"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+    alt: "Hobbies & Interests"
+    title: "Hobbies & Interests"
+    excerpt: "I am a huge tech enthusiast, play 3 different instruments and love swimming."
+    url: "/about"
+    btn_label: "Hobbies & Interests"
+    btn_class: "btn--warning"
   - image_path: /home/pencil.png
-    alt: "placeholder image 3"
+    alt: "Blog"
     title: "Blog"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+    excerpt: "My daily experiences and my views on various topics can be found here."
+    url: "/posts"
+    btn_label: "Blog"
+    btn_class: "btn--danger"
 feature_row2:
   - image_path: /home/lighthouse.png
-    alt: "placeholder image 4"
-    title: "Henry's Guide to Surviving Montreal"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    alt: "Henry's Guide to Surviving McGill"
+    title: "Henry's Guide to Surviving McGill"
+    excerpt: "As a **McGill**{: .red} graduate, I have accumulated some tips and advice to help you survive your time at **McGill**{: .red}."
+    url: "/guide"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn--success"
 ---
 
 # Greetings! 
 
-> Thank you for taking time out of your day to check out my website. The purpose of my website is for you, the reader, to learn more about me than what is written on my resume and my Linked-In profile. I hope that I show my skills, education, passions, goals and opinions through my website and blog. Feel free to check out any of the sections below. 
+> *Thank you* for taking time out of your day to check out my website. The purpose of my website is for you, the reader, to learn more about me than what is written on my resume and my Linked-In profile. I hope that I show my **skills, education, passions, goals and opinions** through my website and blog. Feel free to check out any of the sections below. 
 
 
 {% include feature_row %}
