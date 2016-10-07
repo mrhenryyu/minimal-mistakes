@@ -1,5 +1,5 @@
 ---
-title: "**Resume & C.V. **"
+title: "**Resume & C.V.**"
 layout: single
 permalink: /about/resume
 author_profile: true
