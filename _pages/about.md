@@ -101,10 +101,11 @@ Aside from academic goals, I have personal goals that I have set for myself, in 
 
 > Due at the end of the year: 
 
-1. lose weight until I hit my target weight of 175
-2. Keep going to the gym a minimum of 5 times a week 
+1. lose weight until I hit my target weight of 175 lbs (currently 185 lbs)
+2. Keep going to the gym a minimum of 5 times a week (currently going 5 times / week)
 3. Sleep latest at midnight and wake up latest at 8am for a minimum of 5 times a week 
-4. Maintain my ketogenic diet for 2 months 
+4. Maintain my ketogenic diet for 2 months (currently 1 month in)
+5. Design my own Ruby on Rails application (currently in the process of implimenting)
 
 
 
