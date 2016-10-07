@@ -10,12 +10,14 @@ main:
   - title: "About Me"
     url: /about/
     children:
-      - title: "Studies"
+      - title: "Resume"
         url: /about/studies
+      - title: "Skills"
+        url: /about/skills
+      - title: "Experience"
+        url: /about/experience
       - title: "Interests"
         url: /about/interests
-      - title: "Hobbies"
-        url: /about/hobbies
         
   - title: "Projects"
     url: /projects/
