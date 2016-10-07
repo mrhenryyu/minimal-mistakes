@@ -100,6 +100,7 @@ Over the next year, I want to enter the data analyst market and work for a reput
 Aside from academic goals, I have personal goals that I have set for myself, in order to improve my physical and mental health, and persona targets I would like to reach. 
 
 > Due at the end of the year: 
+
 1. lose weight until I hit my target weight of 175
 2. Keep going to the gym a minimum of 5 times a week 
 3. Sleep latest at midnight and wake up latest at 8am for a minimum of 5 times a week 
