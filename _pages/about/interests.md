@@ -1,7 +1,7 @@
 ---
-title: "**Education and Experience**{: .center}"
+title: "**Interests**"
 layout: single
-permalink: /about/experience
+permalink: /about/interests
 author_profile: true
 header:
     overlay_image: /about/hobbies.jpg
