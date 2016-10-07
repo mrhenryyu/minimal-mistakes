@@ -9,7 +9,6 @@ excerpt: "
     <br>
     <br>
     <br>
-    <br>
 "
 
 permalink: /about/
@@ -72,7 +71,7 @@ interests:
 {% include feature_row id="resume" type="left" %}
 
 ## Skills & Experience
-{% include feature_row id="skills_experience" %}
+{% include feature_row id="skills_experience" class="full"%}
 
 ## Hobbies and Interests
 {% include feature_row id="interests" type="left" %}
