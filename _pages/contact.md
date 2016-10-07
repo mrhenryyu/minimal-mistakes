@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /contact
+permalink: /contact/
 author_profile: true
 title: "Contact Me"
 categories: [Contact]
