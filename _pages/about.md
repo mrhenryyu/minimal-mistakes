@@ -18,7 +18,7 @@ header:
     overlay_image: /about/old_profile.jpg
     
 resume:
-  - image_path: /about/tie.png
+  - image_path: /about/uniform.png
     alt: "Resume"
     title: Resume / Curriculum Vitae
     excerpt: "A quick and concise rundown of my CV. 1 page format tailored to finance and tech industries."
@@ -27,14 +27,14 @@ resume:
     btn_class: "btn--success"
     
 skills_experience:
-  - image_path: /about/tie.png
+  - image_path: /about/tools.png
     alt: "Skills"
     title: Skills
     excerpt: "After 16 years of Canadian education, here are my skills and core competencies."
     url: "/about/skills"
     btn_label: "Skills" 
     btn_class: "btn--warning"
-  - image_path: /about/tie.png
+  - image_path: /about/graduate.png
     alt: "Education and Experience"
     title: Education & Experience
     excerpt: "A comprehensive list of my educational background, work and research experience, extracurricular and volunteer activities."
@@ -43,7 +43,7 @@ skills_experience:
     btn_class: "btn--danger"
 
 interests:
-  - image_path: /about/tie.png
+  - image_path: /about/puzzle.png
     alt: "Interests & Hobbies"
     title: Interests & Hobbies
     excerpt: "A glimpse into my personality and the things I enjoy."
