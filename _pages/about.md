@@ -18,7 +18,7 @@ header:
     overlay_image: /about/old_profile.jpg
     
 resume:
-  - image_path: /home/tie.png
+  - image_path: /about/tie.png
     alt: "Resume"
     title: Resume / Curriculum Vitae
     excerpt: "A quick and concise rundown of my CV. 1 page format tailored to finance and tech industries."
@@ -27,14 +27,14 @@ resume:
     btn_class: "btn--success"
     
 skills_experience:
-  - image_path: /home/tie.png
+  - image_path: /about/tie.png
     alt: "Skills"
     title: Skills
     excerpt: "After 16 years of Canadian education, here are my skills and core competencies."
     url: "/about/skills"
     btn_label: "Skills" 
     btn_class: "btn--warning"
-  - image_path: /home/tie.png
+  - image_path: /about/tie.png
     alt: "Education and Experience"
     title: Education & Experience
     excerpt: "A comprehensive list of my educational background, work and research experience, extracurricular and volunteer activities."
@@ -43,7 +43,7 @@ skills_experience:
     btn_class: "btn--danger"
 
 interests:
-  - image_path: /home/tie.png
+  - image_path: /about/tie.png
     alt: "Interests & Hobbies"
     title: Interests & Hobbies
     excerpt: "A glimpse into my personality and the things I enjoy."
@@ -86,10 +86,24 @@ Every single person has dreams, ambitions and goals. Various things that they wi
 
 Since people who have written down their goals are **50% more likely** to achieve their goals, it is important for me to write down my short term and long term goals. Through formulating your goals on paper, you are able to formulate a "goal plan". This is the **first step** in achieving your goals. 
 
-### **Long Term Goal**{: .red} : Become a successful individual in an industry that involves data, technology and finance. 
+##### **Long Term Goal**{: .red} : Become a successful individual in an industry that involves data, technology and finance. 
 My eventual goal is to develop a steady career for myself in an industry that I am passionate about, and doing something that I love. Although vague, I envision myself working a technical job and doing something that involves a mix of science, technology and finance. I am willing to put in the hard work and planning in order to make this dream a reality. 
 
-### **Five Year Goal**{: .red} : Become a data analyst for a reputable company and work in various work environments / locations 
-Within these next 5 years, I want to start to begin creating a name and a career for myself. AS my core competency is in research and analysis, being a data analyst is the right fit for me. 
+##### **Five Year Goal**{: .red}  Become a data analyst for a reputable company and work in various work environments / locations 
+Within these next 5 years, I want to start to begin creating a name and a career for myself. As my core competency is in research and analysis, being a data analyst is the right fit for me. I aim to learn quickly and work hard in order to hone my skills and progress up the career ladder. As I have a finance and neuroscience background, I wish to incorporate that knowledge into my career down the line. 
+
+##### **1 year goal**{: .red} Begin working as a data analyst for a reputable firm. 
+Over the next year, I want to enter the data analyst market and work for a reputable company. 
+
+##### Personal Goals 
+
+Aside from academic goals, I have personal goals that I have set for myself, in order to improve my physical and mental health, and persona targets I would like to reach. 
+
+> Due at the end of the year: 
+1. lose weight until I hit my target weight of 175
+2. Keep going to the gym a minimum of 5 times a week 
+3. Sleep latest at midnight and wake up latest at 8am for a minimum of 5 times a week 
+4. Maintain my ketogenic diet for 2 months 
+
 
 
