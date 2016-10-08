@@ -45,11 +45,13 @@ This is a snapshot of the most meaningful extracurricular activites during my Un
 
 ### Model United Nations 
   * IRSAM 
+  * McGill Model UN delegations team
   * SSUNS 
   * MCMUN
   * MUNC 
   * WorldMUN SEC 
   
 ### McGill Students' Business Review (MSBR)
-
+Chief Financial Officer
+ - manage a team of financial officers
 ## Volunteer Activities
