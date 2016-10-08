@@ -38,4 +38,17 @@ header:
 
 -->
 
-This is a snapshot of the most meaningful extracurricular activites during my University years{: .notice--primary}
+This is a snapshot of the most meaningful extracurricular activites during my University years (reverse chronological order)
+{: .notice--primary}
+
+## Extracurricular / Leadership Activities 
+
+### Model United Nations 
+  * IRSAM 
+  * SSUNS 
+  * MCMUN
+  * MUNC 
+  * WorldMUN SEC 
+### McGill Students' Business Review (MSBR)
+
+## Volunteer Activities
