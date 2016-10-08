@@ -54,4 +54,12 @@ This is a snapshot of the most meaningful extracurricular activites during my Un
 ### McGill Students' Business Review (MSBR)
 Chief Financial Officer
  - manage a team of financial officers
+ - opened back account 
+ - maintained everything 
+ 
+### Neuroscience Undergraduates of McGill (NUM)
+  + Testing 
+  + testing again 
+  + how is the + ? 
+  
 ## Volunteer Activities
