@@ -40,6 +40,13 @@ skills_experience:
     url: "/about/experience"
     btn_label: "Education & Experience" 
     btn_class: "btn--danger"
+  - image_path: /about/group.png
+    alt: "Extracurriculars"
+    title: Extracurriculars
+    excerpt: "A cross section of the extracurricular activities I have participated in and the clubs / organizations I have volunteered for."
+    url: "/about/extracurricular"
+    btn_label: "Extracurriculars" 
+    btn_class: "btn--info"
 
 interests:
   - image_path: /about/puzzle.png
@@ -71,7 +78,7 @@ interests:
 {% include feature_row id="resume" type="left" %}
 
 ## Skills & Experience
-{% include feature_row id="skills_experience" class="full"%}
+{% include feature_row id="skills_experience" class="full" %}
 
 ## Hobbies and Interests
 {% include feature_row id="interests" type="left" %}

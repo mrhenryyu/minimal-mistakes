@@ -18,6 +18,8 @@ main:
         url: /about/experience
       - title: "Interests"
         url: /about/interests
+      - title: "Extracurriculars"
+        url: /about/extracurricular
         
   - title: "Projects"
     url: /projects/

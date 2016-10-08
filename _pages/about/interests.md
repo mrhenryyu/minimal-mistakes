@@ -1,5 +1,5 @@
 ---
-title: "**Interests**"
+title: "**Interests**{: .text-center}"
 layout: single
 permalink: /about/interests
 author_profile: true
