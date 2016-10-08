@@ -11,7 +11,10 @@ excerpt: "
     <br>
     <br>
     <br>
-    <br> "
+    <br> 
+    <br>
+    <br>
+    "
     
 ---
 
@@ -50,16 +53,20 @@ This is a snapshot of the most meaningful extracurricular activites during my Un
 ## Extracurricular / Leadership Activities 
 
 ### Model United Nations 
+September 2013 - Present
+{: .notice--primary}
   * IRSAM 
   * McGill Model UN delegations team
-  * SSUNS 
-  
+  * SSUNS <br>
     This is a paragraph with this, so how does the text size matter? 
   * MCMUN
   * MUNC 
   * WorldMUN SEC 
   
 ### McGill Students' Business Review (MSBR)
+September 2015 - April 2016 
+{: .notice--primary}
+
 Chief Financial Officer
  - manage a team of financial officers
  - opened back account 
@@ -69,5 +76,8 @@ Chief Financial Officer
   + Testing 
   + testing again 
   + how is the + ? 
+  
+### ACIIC 
+ * McGill Investment Club 
   
 ## Volunteer Activities
