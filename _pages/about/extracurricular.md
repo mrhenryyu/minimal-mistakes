@@ -49,6 +49,7 @@ This is a snapshot of the most meaningful extracurricular activites during my Un
   * MCMUN
   * MUNC 
   * WorldMUN SEC 
+  
 ### McGill Students' Business Review (MSBR)
 
 ## Volunteer Activities
