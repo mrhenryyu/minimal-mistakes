@@ -5,7 +5,14 @@ permalink: /about/skills
 author_profile: true
 header:
     overlay_image: /about/toolshed.jpg
-    
+excerpt:"
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+"
     
 ---
 

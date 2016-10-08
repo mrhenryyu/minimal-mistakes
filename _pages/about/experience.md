@@ -5,7 +5,13 @@ permalink: /about/experience
 author_profile: true
 header:
     overlay_image: /about/desk.jpg
-    
-    
+excerpt:"
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+" 
 ---
 
