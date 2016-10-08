@@ -5,13 +5,13 @@ permalink: /about/resume
 author_profile: true
 header:
     overlay_image: /about/books.jpg
-excerpt:"
+    
+excerpt: "
     <br>
     <br>
     <br>
     <br>
     <br>
-    <br>
-"  
+    <br> "
 ---
 

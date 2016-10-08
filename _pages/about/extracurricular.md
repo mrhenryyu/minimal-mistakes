@@ -5,14 +5,13 @@ permalink: /about/extracurricular
 author_profile: true
 header:
     overlay_image: /about/extracurricular.jpg
-excerpt:"
+excerpt: "
     <br>
     <br>
     <br>
     <br>
     <br>
-    <br>
-"
+    <br> "
     
 ---
 
@@ -54,6 +53,7 @@ This is a snapshot of the most meaningful extracurricular activites during my Un
   * IRSAM 
   * McGill Model UN delegations team
   * SSUNS 
+  
     This is a paragraph with this, so how does the text size matter? 
   * MCMUN
   * MUNC 
