@@ -104,5 +104,6 @@ MEDLIFE McGill
 ♣	Most recently, tutored students in undergraduate level freshman calculus, biology and physics 
 
 ### Toastmasters McGill 
-
+September 2013 - September 2015 
+  - Drastically improved ability to speak publically, 
 ### Shad Valley UBC 2012  
