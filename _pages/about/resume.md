@@ -16,3 +16,10 @@ excerpt: "
 ---
 
 *** Currently in development *** 
+
+### Finance Resume
+Please check out my 1 page resume 
+
+
+### Data Analyst Resume / CV 
+[PDF](/assets/download/Henry Yu CV Oct 2016.docx)
