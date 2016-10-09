@@ -21,13 +21,8 @@ main:
       - title: "Extracurriculars"
         url: /about/extracurricular
         
-  - title: "Projects"
-    url: /projects/
-    children:
-      - title: "Project 1"
-        url: /projects/project1/
-      - title: "Project 2"
-        url: /projects/project2/
+  - title: "Guide"
+    url: /guide/
 
 
   - title: "Contact"
