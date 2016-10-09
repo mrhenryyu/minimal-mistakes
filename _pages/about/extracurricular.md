@@ -85,7 +85,8 @@ September 2013 - Present
 ### Sponsorship Committee Member 
 MEDLIFE McGill 
 ♣	Solicited donations from various local organizations for donations and sponsorships 
-♣	Coordinated 
+♣	Arranged and coordinated with sponsors for various club events 
+
 
 ### McGill Residence Council (IRC + URC)
 ♣	Efficiently led a team of 20 students to improve the residence experience for first-year students 

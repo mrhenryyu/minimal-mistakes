@@ -38,3 +38,16 @@ McGill Vision Unit
 ♣	Performed western blotting and staining techniques to detect protein levels in cells undergoing stress 
 ♣	Analyzed relative levels of numerous proteins using computer software and statistical tools 
 ♣	Summarized findings in a 6-page comprehensive research report for the primary investigator
+
+
+## Education 
+
+### McGill Neuroscience Degree 
+
+### McGill Finance Minor 
+
+## Certifications 
+
+### Linux EDX Certification 
+
+### Udacity Data Scientist Nanodegree (in progress)
