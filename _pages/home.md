@@ -10,7 +10,7 @@ header:
     caption: "Photo Credit: Samuel Miriello"
     
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in     diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'The '
   
 excerpt: "
 
@@ -63,20 +63,15 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--success"
 ---
-
-# Greetings! 
-
 {% include feature_row id="intro" type="center" %}
 
 > *Thank you* for taking time out of your day to check out my website. The purpose of my website is for you, the reader, to learn more about me than what is written on my resume and my Linked-In profile. I hope that I show my **skills, education, passions, goals and opinions** through my website and blog. Feel free to check out any of the sections below. 
-
 
 {% include feature_row %}
 
 > As a McGill student, I have spent 4 years living in Montreal and I have accumulated some knowledge over the years that I think will help new and incoming students adjust to living in this amazing city. I hope to make it easier and cheaper for students' to get their living essentials so they have more time + money to spend on their education. Some topics I touch upon are: **internet service, cellphone service, groceries, transportation, common scams, restaurants, shopping and more**{: .red} 
 
 {% include feature_row id="feature_row2" type="left" %}
-
 
 > Making this website was not an easy undertaking, it took hours upon hours, long nights and lots of coffee to make this website. This website was not created through Wordpress, Squarespace, Wix or any other website-creating service. This website is made using Jekyll and Ruby, hosted on Github Pages. 
 
