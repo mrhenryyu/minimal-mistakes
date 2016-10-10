@@ -86,7 +86,7 @@ interests:
 
 ## Goals 
 
->People with goals **succeed** because they know where they're going (**Earl Nightingale**)
+>People with goals **succeed**{: .red} because they know where they're going (**Earl Nightingale**)
 
 Every single person has dreams, ambitions and goals. Various things that they wish were different, aspirations that they spend all night thinking about. However, only 3 out of every 100 adults actually **write down** their goals and aspirations on paper. 
 
@@ -105,7 +105,7 @@ Over the next year, I want to enter the data analyst market and work for a reput
 
 Aside from academic goals, I have personal goals that I have set for myself, in order to improve my physical and mental health, and persona targets I would like to reach. 
 
-### **Short term goals***{: .red}:  
+### **Short term goals**{: .red}:  
 
 1. lose weight until I hit my target weight of 175 lbs (currently 185 lbs)
 2. Keep going to the gym a minimum of 5 times a week (currently going 5 times / week)
