@@ -29,7 +29,7 @@ While this section is concurrent with my experience / education section / resume
       - Experienced in Microsoft Excel, Word and PowerPoint
       - Strong understanding of statistics and application through IBM SPSS 
       - Experience with Bloomberg and Thomson Reuters Eikon terminals 
-      - In depth understanding of computer hardware and web development languages(HTML, CSS, JS, Ruby)
+      - In depth understanding of computer hardware and web development languages(HTML, CSS, JS, Ruby, Jekyll)
 
 Science/ 
 
