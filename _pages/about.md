@@ -70,7 +70,7 @@ interests:
     RESUM
     
 -->
-<!--{% include toc title="About Henry" %}-->
+{% include toc title="About Henry" %}
 
 ## Welcome to my Personal Page 
 

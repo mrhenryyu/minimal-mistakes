@@ -15,13 +15,16 @@ excerpt: "
     
 ---
 
-While this section is concurrent with my experience / education section / resume, this section is to give a brief overlook at what skills I possess and what core competencies I own. 
+While this section is concurrent with my experience / education section / resume, this section is to give a brief overlook at what skills I possess and what core competencies I own. In most situations, I create links to show proof or an expansion of the 
 
 ### Programming 
   - Java
   - C 
-  - Web Development 
+  - Web Development (Javascript)
   - Unix / Linus Development Tools 
+  - Algorithms 
+  - Python / Matlab 
+  - Databases (Mongo DB, SQL Databases)
 Data Analysis 
 
 Neuroscience / Research 
