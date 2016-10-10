@@ -15,19 +15,21 @@ excerpt: "
     
 ---
 
-While this section is concurrent with my experience / education section / resume, this section is to give a brief overlook at what skills I possess and what core competencies I own. In most situations, I create links to show proof or an expansion of the 
+While this section is concurrent with my experience / education section / resume, this section is to give a brief overlook at what skills I possess and what core competencies I own. **References and additional information** are provided at the end of this page. 
 
-### Programming 
-  - Java
-  - C 
-  - Web Development (Javascript)
-  - Unix / Linus Development Tools 
-  - Algorithms 
-  - Python / Matlab 
-  - Databases (Mongo DB, SQL Databases)
-Data Analysis 
-
-Neuroscience / Research 
+### Computer Skills
+  - Computer Programming and Development Skills
+      - Proficency in Java and C programming languages 
+      - Knowledge of basic algorithms and data structures
+      - Proficency in command line and Unix/Linux environment
+      - Proficency in data analysis and visualization using Python or Matlab
+      - Ability to design and analyze databases in MongoDB and SQL (Postgresql)
+      - Ability to create a
+  - Computer Productivity Skills
+      - Experienced in Microsoft Excel, Word and PowerPoint
+      - Strong understanding of statistics and application through IBM SPSS 
+      - Experience with Bloomberg and Thomson Reuters Eikon terminals 
+      - In depth understanding of computer hardware and web development languages(HTML, CSS, JS, Ruby)
 
 Science/ 
 
@@ -50,3 +52,9 @@ Science/
   - Ability to manage and complete multiple tasks and adhere to deadlines 
   - Ability to critically analyze problems and quickly find creative and effective solutions
   - Languages: English (native), Mandarin (fluent), French (conversational)
+
+## [Test Link](/about/skills/#programming)
+
+
+#### Further Information /References
+##### Programming 
