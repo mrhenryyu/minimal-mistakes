@@ -31,8 +31,9 @@ While this section is concurrent with my experience / education section / resume
       - In depth understanding of computer hardware and web development languages(HTML, CSS, JS, Ruby, Jekyll)
       - Experience with Github and version control
 
-##  **Academic Skills and Financial Knowledge**{: .red}
-  - theoretical and Practical knowledge of financial concepts, including international finance, financial derivatives, corporate finance, financial markets and institutions and portfolio management 
+##  **Academic Skills and Knowledge**{: .red}
+  - **Neuroscience and Research**{: .purple}
+    -   theoretical and Practical knowledge of financial concepts, including international finance, financial derivatives, corporate finance, financial markets and institutions and portfolio management 
   - Strong academic background in neuroscience, including topics in psychology, laboratory research, neurotechnology, mathematical modelling and computer programming 
   - Proficiency in analyzing research data, reading scientific journals and writing research reports
 
