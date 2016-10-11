@@ -18,13 +18,13 @@ excerpt: "
 While this section is concurrent with my experience / education section / resume, this section is to give a brief overlook at what skills I possess and what core competencies I own. **References and additional information**{: .red} are provided at the end of this page. 
 
 ## **Computer Skills**{: .red}
-  - *Computer Programming and Development Skills*{: .purple}
+  - **Computer Programming and Development Skills**{: .purple}
       - Proficency in Java and C programming languages 
       - Knowledge of basic algorithms and data structures
       - Proficency in command line and Unix/Linux environment
       - Proficency in data analysis and visualization using Python and Matlab
-      - Ability to design and analyze databases in MongoDB and SQL (Postgresql)
-  - *Computer Productivity*{: .purple}
+      - Ability to design and analyze databases in MongoDB and SQL (PostgreSQL)
+  - **Computer Productivity**{: .purple}
       - Experienced in Microsoft Excel, Word and PowerPoint
       - Strong understanding of statistics and application through IBM SPSS 
       - Experience with Bloomberg and Thomson Reuters Eikon terminals 
@@ -33,7 +33,9 @@ While this section is concurrent with my experience / education section / resume
 
 ##  **Academic Skills and Knowledge**{: .red}
   - **Neuroscience and Research**{: .purple}
-    -   theoretical and Practical knowledge of financial concepts, including international finance, financial derivatives, corporate finance, financial markets and institutions and portfolio management 
+      - Strong academic background in neuroscience, with 
+      - Strong change in 
+    - theoretical and Practical knowledge of financial concepts, including international finance, financial derivatives, corporate finance, financial markets and institutions and portfolio management 
   - Strong academic background in neuroscience, including topics in psychology, laboratory research, neurotechnology, mathematical modelling and computer programming 
   - Proficiency in analyzing research data, reading scientific journals and writing research reports
 
