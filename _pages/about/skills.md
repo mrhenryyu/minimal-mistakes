@@ -33,25 +33,26 @@ While this section is concurrent with my experience / education section / resume
 
 ##  **Academic Skills and Knowledge**{: .red}
   - **Neuroscience and Research**{: .purple}
-      - Strong academic background in neuroscience, with 
-      - Strong change in 
-    - theoretical and Practical knowledge of financial concepts, including international finance, financial derivatives, corporate finance, financial markets and institutions and portfolio management 
-  - Strong academic background in neuroscience, including topics in psychology, laboratory research, neurotechnology, mathematical modelling and computer programming 
-  - Proficiency in analyzing research data, reading scientific journals and writing research reports
-
+      - Strong academic background in neuroscience, with broad understanding of topics in psychology, neuroscience,  biology, statistics and biological modelling
+      - Strong research skills and techniques from numerous research courses taken and 3 years of research experience. Skills include basic biology and chemistry techniques, neuroscience specific research techniques and clinical human research protocol
+      - Proficiency in analyzing research data, reading scientific journals and writing scientific reports
+  - **Finance**{: .purple}
+      - theoretical and practical knowledge of financial concepts, including international finance, financial derivatives , corporate finance, financial markets and M & A 
+      - strong understanding of stock pitches (buy, hold & sell), valuation (DCF, multiples) and financial statements (income statement, cash flow statement, balance sheet)
 
 ##  **General**{: .red}
   - Enthusiastic and motivated to conduct quality research
   - Ability to work efficiently in a team dynamic as well as independently
   - Ability to manage and complete multiple tasks and adhere to deadlines 
   - Ability to critically analyze problems and quickly find creative and effective solutions
+  - Ability to quickly learn and adapt to new situations (i.e. creating a website from scratch)
   - Languages: English (native), Mandarin (fluent), French (conversational)
-
-## [Test Link](/about/skills/#programming)
 
 
 ## Further Information /References
-## Programming 
+
+## [Test Link](/about/skills/#programming)
+
 
 
 
