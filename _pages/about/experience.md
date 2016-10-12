@@ -16,14 +16,14 @@ excerpt: "
 
 ## Laboratory and Career Experience 
 
-# Undergraduate Marker 
+### Undergraduate Marker 
 FINE 441 - Professor Sebastien Betermier
 {: .notice}
-
   - Marked for an upper level finance class
   - Created marking scheme, and comments on excel to have more efficient marking 
   - Ensure transparency / comments 
-## Airbnb Host
+  
+### Airbnb Host
   - Independently established a hotel-like vacation home rental business on an internet platform
   - Oversaw all facets of operation, including marketing, staffing, client relations, pricing and bookkeeping 
   - Generated over $28,000 in revenue and over $14,000 profit in 8 months’ operation with little start-up cost
