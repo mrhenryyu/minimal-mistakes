@@ -17,17 +17,19 @@ excerpt: "
 ## Laboratory and Career Experience 
 
 ### Undergraduate Marker 
-FINE 441 - Professor Sebastien Betermier
+FINE 441 - Professor Sebastien Betermier - January 2016 - April 2016
 {: .notice}
   - Marked for an upper level finance class
   - Created marking scheme, and comments on excel to have more efficient marking 
-  - Ensure transparency / comments 
+  - 
   
-### Airbnb Host
+### Independent AirBnB venture 
+Montreal - May 2013 - August 2015
+{: .notice}
   - Independently established a hotel-like vacation home rental business on an internet platform
   - Oversaw all facets of operation, including marketing, staffing, client relations, pricing and bookkeeping 
   - Generated over $28,000 in revenue and over $14,000 profit in 8 months’ operation with little start-up cost
-  - Implemented cost-saving, marketing and price changes to increase revenue by 20% the second year
+  - Implemented cost-saving, marketing and price changes to increase revenue by 40% the second year and another 20% the third year 
 
 ## Undergrad Researcher 
 McGill Vision Unit 
