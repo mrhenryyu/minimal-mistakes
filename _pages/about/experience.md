@@ -31,14 +31,15 @@ Montreal - May 2013 - August 2015
   - Generated over $28,000 in revenue and over $14,000 profit in 8 months’ operation with little start-up cost
   - Implemented cost-saving, marketing and price changes to increase revenue by 40% the second year and another 20% the third year 
 
-## Undergrad Researcher 
+### Undergrad Researcher 
 McGill Vision Unit 
 {: .notice}
-
-  - Written scripts in MATLAB to test visual acuity and visual discrimination through various optic tasks
+  - Wrote scripts in MATLAB to test visual acuity and visual discrimination through various optic tasks
   - Tested human participants with visual tests after transcranial magnetic stimulation(TMS) and analyzed the data through statistical software to observe TMS effects on the visual system 
 
-## Undergrad Researcher 
+### Undergrad Researcher 
+Circadian Rhythm Lab 
+{: .notice}
   - Administered periodic psychological tests on several human participants (e.g. mood tests, aptitude tests)
   - Extracted bodily fluids and supervised human subjects undergoing sleep deprivation protocols for analysis
 
