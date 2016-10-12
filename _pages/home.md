@@ -10,7 +10,7 @@ header:
     caption: "Photo Credit: Samuel Miriello"
     
 intro: 
-  - excerpt: 'There are no secrets to success. It is the result of preparation, hard work, and learning from failure.[Colin Powell]'
+  - excerpt: 'There are no secrets to **success**{: .green}. It is the result of **preparation, hard work**{: .green}, and learning from **failure**{: .red}. [**Colin Powell**]'
   
 excerpt: "
 
