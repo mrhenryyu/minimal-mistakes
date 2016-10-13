@@ -104,23 +104,30 @@ ACIIC Member and MIC Member - September 2015 - April 2016
   - Communicated concepts clearly and elicited a greater degree of understanding for tutees
   - Most recently, tutored students in undergraduate level freshman calculus, biology and physics 
 
-# Volunteer Activities
+# Activities / Volunteering 
 
 ### DriveSafe 
-  - Testing 
+DriveSafe Shotgun September 2014 - April 2016 
+{: .notice--primary}
+  - Helped students geth ome
 
 
 ### Making Waves 
 Swimming Instructor - September 2012 - April 2016 
 {: .notice--primary}
-  - Testing 
+  - taught 
 
+### EXPLORE Program 
+Attendee - North Bay, Ontario - June 2014
+{: .notice--primary}
+  - North Bay 
 
 ### Toastmasters McGill 
 September 2013 - September 2015 
 {: .notice--primary}
   - Drastically improved ability to speak publically, 
+  
 ### Shad Valley UBC 
 Attendee - July 2012 
 {: .notice--primary}
-  - [Blogged the entire trip](shadubc.blogspot.com)
+  - [Blogged the entire trip](https://shadubc.blogspot.com)

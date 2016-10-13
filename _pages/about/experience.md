@@ -51,10 +51,13 @@ McGill McIntyre Medical Building - Dr. Stochaj Lab - May 2014 - August 2014
   - Analyzed relative levels of numerous proteins using computer software and statistical tools 
   - Summarized findings in a 6-page comprehensive research report for the primary investigator
 
+### Lifeguard / Aquatic Instructor
+City of Mississauga - Summer 2012 - Summer 2014 
+{: .notice--primary}
 
 ## Education 
 Courses of interest will be highlighted
-{: .notice}
+{: .notice--primary}
 
 ### McGill Neuroscience Degree (Stream B: Neurophysiology / Neural Computation)
   - Neuroethics: ethics of research and neuroscience [NSCI 300](https://www.mcgill.ca/study/2016-2017/courses/nsci-300)
