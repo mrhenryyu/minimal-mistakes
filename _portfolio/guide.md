@@ -21,6 +21,7 @@ header:
 
 ### Currently In Progress
 
+Part 1 / 10
 
 
 # Why create your own website instead of just paying for it? 

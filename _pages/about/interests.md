@@ -26,7 +26,8 @@ Today, I can't go a day without technology. I keep in touch with the latest adva
 
 ### Fitness 
 
-    I have always placed sports, but fitness and I were not completely on the same page until recently. 
+When I was younger, I was pushed by my parents ot pursue sports. I absolutely hated it, 
+
   - Swimming instructor 
   - Played club badminton 
   - GYM everyday 
