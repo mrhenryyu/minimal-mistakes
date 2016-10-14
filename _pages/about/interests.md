@@ -17,7 +17,7 @@ excerpt: "
 ## Interests 
 
 ### Technology 
-![image-left](/images/bamboo.jpg){: .align-left}
+![image-left](/images/bamboo.jpg){: .align-left max-width="50%" height="auto" }
     
 Ever since I was little, I was always fascinated with computers. I remember spending hours as a child learning Windows 95 and trying to understand how dial-up internet worked. As I grew up, technology was always a key component of my education, from a tool to maximize studying to learning the code behind certain programs so that I can create those programs. 
     
