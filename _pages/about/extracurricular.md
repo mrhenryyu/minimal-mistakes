@@ -58,7 +58,8 @@ Various Roles - September 2013 - Present
   - Staffed several Model UN conferences (McMUN, SSUNS, MUNC)
   - Wrote background guides for upcoming conferences to aid delegates in creating dialogue/debate
   - Chairing upcoming McGill Model UN committees on mental health NGOs and the 2008 financial crisis 
-♣	Prepared operation budgets, room bookings, merchandise and other logistical matters as Deputy USG of Operations for upcoming Montreal UN Conference, which attracts 250+ delegates each year
+  - prepared operation budgets, room bookings, merchandise and other logistical matters as Deputy USG of Operations for upcoming Montreal UN Conference, which attracts 250+ delegates each year
+  - Tested 
 
   
 ### McGill Students' Business Review (MSBR)
@@ -109,7 +110,7 @@ ACIIC Member and MIC Member - September 2015 - April 2016
 ### DriveSafe 
 DriveSafe Shotgun September 2014 - April 2016 
 {: .notice--primary}
-  - Helped students geth ome
+  - Helped students get home safely 
 
 
 ### Making Waves 

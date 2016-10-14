@@ -64,10 +64,11 @@ Courses of interest will be highlighted
   - Neuroscience Seminars [NSCI 400](https://www.mcgill.ca/study/2016-2017/courses/nsci-400d1)
   - Dean's Multidisciplinary Undergraduate Research List
 ### McGill Finance Minor 
-  - Took 9 finances courses, out of the minimum of 6 required
+  - Attended 9 Upper-Year finance courses, with a mimimum of 6 required courses
 
 ## Certifications 
 
+### Udacity Data Scientist Nanodegree (in progress)
+
 ### Linux EDX Certification 
 
-### Udacity Data Scientist Nanodegree (in progress)

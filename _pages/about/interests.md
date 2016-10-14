@@ -17,12 +17,15 @@ excerpt: "
 ## Interests 
 
 ### Technology 
-    Ever since I was little, I was always fascinated with computers. I remember spending hours as a child learning Windows 95 and trying to understand how dial-up internet worked. As I grew up, technology was always a key component of my education, from a tool to maximize studying to learning the code behind certain programs so that I can create those programs. 
+![image-left](/about/interests/tech.jpg)
     
-    Today, I can't go a day without technology. I keep in touch with the latest advancements in technology, especially those related to my personal feelings. I pay particular close attention to Google, and software / hardware releases. Recently, I build my own PC for the first time, after watching countless hours of Youtube videos on PC building and information. As I grow older, I will continue to be amazed by the changes in technology. 
+Ever since I was little, I was always fascinated with computers. I remember spending hours as a child learning Windows 95 and trying to understand how dial-up internet worked. As I grew up, technology was always a key component of my education, from a tool to maximize studying to learning the code behind certain programs so that I can create those programs. 
+    
+Today, I can't go a day without technology. I keep in touch with the latest advancements in technology, especially those related to my personal feelings. I pay particular close attention to Google, and software / hardware releases. Recently, I build my own PC for the first time, after watching countless hours of Youtube videos on PC building and information. As I grow older, I will continue to be amazed by the changes in technology. 
 
 
 ### Fitness 
+
     I have always placed sports, but fitness and I were not completely on the same page until recently. 
   - Swimming instructor 
   - Played club badminton 
