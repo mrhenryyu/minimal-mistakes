@@ -17,7 +17,7 @@ excerpt: "
 ## Interests 
 
 ### Technology 
-![image-left](/about/interests/tech.jpg)
+![image-left](/about/interests/tech.jpg){: .align-left}
     
 Ever since I was little, I was always fascinated with computers. I remember spending hours as a child learning Windows 95 and trying to understand how dial-up internet worked. As I grew up, technology was always a key component of my education, from a tool to maximize studying to learning the code behind certain programs so that I can create those programs. 
     
@@ -26,7 +26,7 @@ Today, I can't go a day without technology. I keep in touch with the latest adva
 
 ### Fitness 
 
-When I was younger, I was pushed by my parents ot pursue sports. I absolutely hated it, 
+When I was younger, I was pushed by my parents ot pursue sports. I initially pushed into soccer and even though I was absolutely terrible (played defence in house league), I enjoyed it. As a child, I was never too good at sports, and for the longest time, I was 
 
   - Swimming instructor 
   - Played club badminton 
