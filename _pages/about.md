@@ -70,9 +70,8 @@ interests:
     RESUM
     
 -->
-{% include toc title="About Henry" %}
 
-## Welcome to my Personal Page 
+# Welcome to my Personal Page 
 
 ## Resume
 {% include feature_row id="resume" type="left" %}
