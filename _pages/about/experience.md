@@ -2,7 +2,7 @@
 title: "**Education and Experience**{: .text-center}"
 layout: single
 permalink: /about/experience
-author_profile: true
+author_profile: false
 sidebar: 
     nav:"about"
 header:

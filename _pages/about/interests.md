@@ -2,7 +2,7 @@
 title: "**Interests**{: .text-center}"
 layout: single
 permalink: /about/interests
-author_profile: true
+author_profile: false
 header:
     overlay_image: /about/hobbies.jpg
 excerpt: "

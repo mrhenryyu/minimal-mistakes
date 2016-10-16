@@ -2,7 +2,7 @@
 title: "**Resume & C.V.**{: .text-center}"
 layout: single
 permalink: /about/resume
-author_profile: true
+author_profile: false
 sidebar: 
     nav:"about"
 header:

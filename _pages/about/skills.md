@@ -2,7 +2,7 @@
 title: "**Skills**{: .text-center}"
 layout: single
 permalink: /about/skills
-author_profile: true
+author_profile: false
 sidebar: 
     nav:"about"
 header:
