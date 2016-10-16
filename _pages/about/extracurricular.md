@@ -3,6 +3,8 @@ title: "Extracurriculars"
 layout: single
 permalink: /about/extracurricular
 author_profile: true
+sidebar: 
+    nav:"about"
 header:
     overlay_image: /about/extracurricular.jpg
 excerpt: "

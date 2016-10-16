@@ -3,6 +3,8 @@ title: "**Skills**{: .text-center}"
 layout: single
 permalink: /about/skills
 author_profile: true
+sidebar: 
+    nav:"about"
 header:
     overlay_image: /about/toolshed.jpg
 excerpt: "

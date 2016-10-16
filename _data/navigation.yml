@@ -11,7 +11,7 @@ main:
     url: /about/
     children:
       - title: "Resume"
-        url: /about/studies
+        url: /about/resume
       - title: "Skills"
         url: /about/skills
       - title: "Experience"
@@ -31,4 +31,18 @@ main:
   - title: "My Blog"
     url: /posts/
     
+#About Sidebar
 about: 
+  - title: "About"
+    url: /about/
+    children:
+      - title: "Resume"
+        url: /about/resume
+      - title: "Skills"
+        url: /about/skills
+      - title: "Experience"
+        url: /about/experience
+      - title: "Interests"
+        url: /about/interests
+      - title: "Extracurriculars"
+        url: /about/extracurricular
