@@ -108,4 +108,4 @@ Aside from academic goals, I have personal goals that I have set for myself, in 
 3. Sleep latest at midnight and wake up latest at 8am for a minimum of 5 times a week 
 4. Maintain my ketogenic diet for 2 months (currently 1 month in)
 5. Design my own Ruby on Rails application (currently in the process of implimenting)
-6. Blog and keep a weekly newsletter about myself 
+6. Blog and document my daily life.

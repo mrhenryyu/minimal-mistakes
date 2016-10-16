@@ -6,7 +6,7 @@ author_profile: false
     
 title: "Hello"
 header:
-    overlay_image: henry_wide.jpg
+    overlay_image: henry_retouch_left.jpg
     caption: "Photo Credit: Samuel Miriello"
     
 intro: 
