@@ -3,8 +3,9 @@ title: "**Resume & C.V.**{: .text-center}"
 layout: single
 permalink: /about/resume
 author_profile: false
-sidebar: 
-    nav:"about"
+sidebar:
+  nav: "about"
+
 header:
     overlay_image: /about/books.jpg
     
