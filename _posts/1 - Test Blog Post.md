@@ -2,6 +2,7 @@
 title: "**Interests**{: .text-center}"
 layout: single
 author_profile: true
+permalink:/blog/post1
 header:
     overlay_image: /about/hobbies.jpg
 excerpt: "
