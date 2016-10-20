@@ -3,7 +3,7 @@ layout: single
 permalink: /guide/
 author_profile: true
 title:
-  - "Henry's Guide to Living in Montreal"
+  -Henry's Guide to Living in Montreal
 sidebar:
   - title: "Henry's Guide to Living in Montreal"
     
