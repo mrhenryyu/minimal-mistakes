@@ -47,3 +47,9 @@ about:
       - title: "Extracurriculars"
         url: /about/extracurricular
     
+    
+guide:
+  - title: "Henry's Guide to Montreal"
+    url: /guide/
+    children:
+      - title: "Internet"
