@@ -142,6 +142,11 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  guide:
+    output: true
+    permalink: /:collection/:path/
+    title: "Henry\'s Guide to Montreal"
+
 
 
 #      related: true
@@ -217,8 +222,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-#paginate: 5 # amount of posts to show
-#paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 

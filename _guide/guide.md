@@ -15,7 +15,7 @@ excerpt: "
 "
 
 header:
-    overlay_image: bamboo.jpg  
+    overlay_image: /images/guide/montroyal.jpg  
     
 ---
 
