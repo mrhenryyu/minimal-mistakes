@@ -19,15 +19,15 @@ header:
     overlay_image: /guide/montroyal.jpg  
     
 one:
-  - image_path: /about/puzzle.png
-    alt: "Interests & Hobbies"
-    title: Interests & Hobbies
-    excerpt: "A glimpse into my personality and the things I enjoy."
-    url: "/about/interests"
+  - image_path: /guide/internet.jpg
+    alt: "Internet"
+    title: Internet
+    excerpt: "How to get internet in Montreal, and what to look for what purchasing a plan."
+    url: "/guide/1"
     btn_label: "Interests & Hobbies" 
     btn_class: "btn"
 ---
 
 # Currently In Progress 
 
-{% include feature_row id="interests" type="left" %}
+{% include feature_row id="one" type="left" %}
