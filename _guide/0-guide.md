@@ -22,7 +22,7 @@ one:
   - image_path: /guide/internet.jpg
     alt: "Internet"
     title: Internet
-    excerpt: "How to get internet in Montreal, and what to look for what purchasing a plan."
+    excerpt: "How to get internet in Montreal, and what to look for when purchasing a plan."
     url: "/guide/1"
     btn_label: "Internet" 
     btn_class: "btn"
