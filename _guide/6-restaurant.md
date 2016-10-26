@@ -2,8 +2,7 @@
 layout: single
 permalink: /guide/6
 author_profile: true
-title:
-    Guide #7 : Grocery Shopping
+title: "Restaurants in Montreal"
 sidebar:
   - title: "Henry's Guide to Living in Montreal"
     

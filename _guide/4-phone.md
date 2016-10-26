@@ -2,8 +2,7 @@
 layout: single
 permalink: /guide/4
 author_profile: true
-title:
-    Guide #4 : How to get a phone plan in Montreal
+title: "Getting a Phone Plan"
 sidebar:
   - title: "Henry's Guide to Living in Montreal"
     
