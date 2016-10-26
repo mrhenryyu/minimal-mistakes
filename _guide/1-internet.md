@@ -2,8 +2,7 @@
 layout: single
 permalink: /guide/1
 author_profile: true
-title:
-    Guide #1 : Getting Internet 
+title: "Getting Internet"
 sidebar:
   - title: "Henry's Guide to Living in Montreal"
     
@@ -16,7 +15,7 @@ excerpt: "
 "
 
 header:
-    overlay_image: /guide/montroyal.jpg  
+    overlay_image: /guide/lake.jpg  
     
 ---
 

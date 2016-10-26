@@ -16,7 +16,7 @@ excerpt: "
 "
 
 header:
-    overlay_image: /guide/montroyal.jpg  
+    overlay_image: /guide/lake.jpg  
     
 one:
   - image_path: /guide/internet.jpg
