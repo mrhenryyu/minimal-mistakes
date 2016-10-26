@@ -2,8 +2,7 @@
 layout: single
 permalink: /guide/2
 author_profile: true
-title:
-    Guide #2 : Creating a Website
+title: "Guide #2 : Creating a Website"
 sidebar:
   - title: "Henry's Guide to Living in Montreal"
     
