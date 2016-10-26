@@ -52,4 +52,15 @@ guide:
   - title: "Henry's Guide to Montreal"
     url: /guide/
     children:
-      - title: "Internet"
+      - title: "Internet Plan"
+        url: /guide/1
+      - title: "Website Part 1"
+        url: /guide/2
+      - title: "Website Part 2"
+        url: /guide/3
+      - title: "Phone Plan"
+        url: /guide/4
+      - title: "Groceries"
+        url: /guide/5
+      - title: "Restaurants"
+        url: /guide/6
