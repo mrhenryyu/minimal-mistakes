@@ -29,7 +29,7 @@ main:
     url: /contact/
     
   - title: "My Blog"
-    url: /posts/
+    url: /blog/
     
 #About Sidebar
 about: 
