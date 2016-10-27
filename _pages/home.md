@@ -37,21 +37,21 @@ feature_row:
     alt: "Skills & Education"
     title: Skills & Education
     excerpt: "Coming from a neuroscience and finance background, my skillset is adaptable to **numerous industries**."
-    url: "/about"
+    url: "/about/skills"
     btn_label: "Skills & Education" 
     btn_class: "btn--success"
   - image_path: /home/bishop.png
     alt: "Hobbies & Interests"
     title: "Hobbies & Interests"
     excerpt: "I am a huge tech enthusiast, play 3 different instruments and love swimming."
-    url: "/about"
+    url: "/about/interests"
     btn_label: "Hobbies & Interests"
     btn_class: "btn--warning"
   - image_path: /home/pencil.png
     alt: "Blog"
     title: "Blog"
     excerpt: "My daily experiences and my views on various topics can be found here."
-    url: "/posts"
+    url: "/blog/"
     btn_label: "Blog"
     btn_class: "btn--danger"
 feature_row2:
