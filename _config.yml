@@ -14,7 +14,7 @@ description              : &description "Henry Yu's Personal Website. "
 url                      : "http://henryyu.me" # the base hostname & protocol for your site 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mrhenryyu/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "teaser_1.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
 comments:
@@ -130,7 +130,8 @@ defaults:
       read_time: true
       comments: true
       share: true
-      teaser: teaser.jpg
+      teaser: "teaser.jpg"
+      related: true
   - scope:
       path: ""
       type: portfolio
