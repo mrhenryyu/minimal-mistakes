@@ -52,7 +52,7 @@ four:
     btn_label: "Phone Plans" 
     btn_class: "btn"
 five:
-  - image_path: /guide/internet.jpg
+  - image_path: /guide/groceries.jpg
     alt: "Internet"
     title: Food + Groceries 
     excerpt: "How to get food + groceries in Montreal."
@@ -60,7 +60,7 @@ five:
     btn_label: "Food + Groceries" 
     btn_class: "btn"
 six:
-  - image_path: /guide/internet.jpg
+  - image_path: /guide/food.jpg
     alt: "Internet"
     title: Restaurants 
     excerpt: "What to do when you want to eat out."
@@ -68,7 +68,7 @@ six:
     btn_label: "Eating Out" 
     btn_class: "btn"
 seven:
-  - image_path: /guide/internet.jpg
+  - image_path: /guide/beer.jpg
     alt: "Internet"
     title: Restaurants 
     excerpt: "What to do when you want to eat out."
