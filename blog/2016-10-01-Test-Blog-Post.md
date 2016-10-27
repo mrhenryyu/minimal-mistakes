@@ -1,5 +1,5 @@
 ---
-title: "**Interests**{: .text-center}"
+title: "Test Post 2"
 layout: single
 author_profile: true
 
