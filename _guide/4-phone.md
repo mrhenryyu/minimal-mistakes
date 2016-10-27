@@ -4,7 +4,7 @@ permalink: /guide/4
 author_profile: true
 title: "Getting a Phone Plan"
 sidebar:
-  - title: "Henry's Guide to Living in Montreal"
+  nav: "guide"
     
 
 excerpt: "

@@ -4,7 +4,7 @@ permalink: /guide/7
 author_profile: true
 title: "Bars / Clubs / Parties"
 sidebar:
-  - title: "Henry's Guide to Living in Montreal"
+  nav: "guide"
     
 
 excerpt: "

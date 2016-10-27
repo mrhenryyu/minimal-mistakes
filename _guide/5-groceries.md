@@ -4,7 +4,7 @@ permalink: /guide/2
 author_profile: true
 title: "Groceries "
 sidebar:
-  - title: "Henry's Guide to Living in Montreal"
+  nav: "guide"
     
 
 excerpt: "

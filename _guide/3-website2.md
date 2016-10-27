@@ -4,7 +4,7 @@ permalink: /guide/3
 author_profile: true
 title: "Creating a Website Part 2"
 sidebar:
-  - title: "Henry's Guide to Living in Montreal"
+  nav: "guide"
     
 
 excerpt: "

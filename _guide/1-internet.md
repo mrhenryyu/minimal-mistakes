@@ -4,7 +4,7 @@ permalink: /guide/1
 author_profile: true
 title: "Getting Internet"
 sidebar:
-  - title: "Henry's Guide to Living in Montreal"
+  nav: "guide"
     
 
 excerpt: "

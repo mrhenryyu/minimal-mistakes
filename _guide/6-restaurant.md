@@ -4,7 +4,7 @@ permalink: /guide/6
 author_profile: true
 title: "Restaurants in Montreal"
 sidebar:
-  - title: "Henry's Guide to Living in Montreal"
+  nav: "guide"
     
 
 excerpt: "
