@@ -28,7 +28,7 @@ one:
     btn_class: "btn"
     
 two:
-  - image_path: /guide/internet.jpg
+  - image_path: /guide/website.jpg
     alt: "Website Part 1 "
     title: Website Part 1
     excerpt: "Why you should consider creating your own website."
@@ -36,7 +36,7 @@ two:
     btn_label: "Internet Pt 1" 
     btn_class: "btn"
 three:
-  - image_path: /guide/internet.jpg
+  - image_path: /guide/website2.jpg
     alt: "Website Part 2"
     title: Website Part 2
     excerpt: "How to make a website for free. "
@@ -44,7 +44,7 @@ three:
     btn_label: "Internet Pt 2" 
     btn_class: "btn"
 four:
-  - image_path: /guide/internet.jpg
+  - image_path: /guide/phones.jpg
     alt: "Phone Plans"
     title: Internet
     excerpt: "How to get a mobile plan in Montreal, and what to look for what purchasing a plan."
