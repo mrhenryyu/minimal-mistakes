@@ -8,7 +8,6 @@ author_profile: true
 <h1>Blog Posts (reverse chronological order)</h1>
 
 {% for post in paginator.posts %}
-  <span class="date">{{ post.date }}</span>
   {% include archive-single.html %}
 {% endfor %}
 
