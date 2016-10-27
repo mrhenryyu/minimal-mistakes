@@ -46,7 +46,7 @@ three:
 four:
   - image_path: /guide/phones.jpg
     alt: "Phone Plans"
-    title: Internet
+    title: Phone Plans 
     excerpt: "How to get a mobile plan in Montreal, and what to look for what purchasing a plan."
     url: "/guide/4"
     btn_label: "Phone Plans" 
@@ -54,20 +54,27 @@ four:
 five:
   - image_path: /guide/internet.jpg
     alt: "Internet"
-    title: Internet
-    excerpt: "How to get internet in Montreal, and what to look for what purchasing a plan."
+    title: Food + Groceries 
+    excerpt: "How to get food + groceries in Montreal."
     url: "/guide/5"
     btn_label: "Food + Groceries" 
     btn_class: "btn"
 six:
   - image_path: /guide/internet.jpg
     alt: "Internet"
-    title: Internet
-    excerpt: "How to get internet in Montreal, and what to look for what purchasing a plan."
+    title: Restaurants 
+    excerpt: "What to do when you want to eat out."
     url: "/guide/6"
     btn_label: "Eating Out" 
     btn_class: "btn"
-
+seven:
+  - image_path: /guide/internet.jpg
+    alt: "Internet"
+    title: Restaurants 
+    excerpt: "What to do when you want to eat out."
+    url: "/guide/6"
+    btn_label: "Eating Out" 
+    btn_class: "btn"
 ---
 
 # Henry's Guide to Living in Montreal
