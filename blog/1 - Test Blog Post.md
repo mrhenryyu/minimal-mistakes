@@ -5,13 +5,7 @@ author_profile: true
 
 header:
     overlay_image: /about/hobbies.jpg
-excerpt: "
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br> "
+excerpt: " This is an excerpt from my test post "
 ---
 
 
