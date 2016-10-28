@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /guide/7
+permalink: /guide/5
 author_profile: true
 title: "Bars / Clubs / Parties"
 sidebar:

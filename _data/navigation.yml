@@ -54,10 +54,6 @@ guide:
     children:
       - title: "Internet Plan"
         url: /guide/1
-      - title: "Website Part 1"
-        url: /guide/2
-      - title: "Website Part 2"
-        url: /guide/3
       - title: "Phone Plan"
         url: /guide/4
       - title: "Groceries"

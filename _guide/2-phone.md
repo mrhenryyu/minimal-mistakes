@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /guide/4
+permalink: /guide/2
 author_profile: true
 title: "Getting a Phone Plan"
 sidebar:

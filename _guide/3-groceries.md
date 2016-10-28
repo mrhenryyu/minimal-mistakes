@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /guide/2
+permalink: /guide/3
 author_profile: true
 title: "Groceries "
 sidebar:

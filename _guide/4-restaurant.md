@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /guide/6
+permalink: /guide/4
 author_profile: true
 title: "Restaurants in Montreal"
 sidebar:

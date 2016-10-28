@@ -1,13 +1,11 @@
 ---
 layout: single
 author_profile: true
+permalink: /guide/website/3
 title: "How to write a Jekyll article"
-date: 2016-09-24 12:00:00 -0400
-categories: [Miscellaneous]
-tags: [Jekyll, Guide]
-comments: true
+
 header:
-    overlay_image: bamboo.jpg  
+    overlay_image: /guide/lake.jpg
 
     
 ---
