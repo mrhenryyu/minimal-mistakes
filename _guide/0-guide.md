@@ -53,7 +53,7 @@ four:
 five:
   - image_path: /guide/beer.jpg
     alt: "Internet"
-    title: Restaurants 
+    title: Bars / Clubs and Parties
     excerpt: "What to do when you want to eat out."
     url: "/guide/5"
     btn_label: "Bars / Clubs / Parties" 
