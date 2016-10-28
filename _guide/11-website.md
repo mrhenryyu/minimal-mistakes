@@ -7,13 +7,6 @@ sidebar:
   nav: "guide"
     
 
-excerpt: "
-    <br>
-    <br>
-    <br>
-    <br>
-"
-
 header:
     overlay_image: /guide/lake.jpg   
     

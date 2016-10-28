@@ -32,3 +32,11 @@ You have wine and you want a decent bring-your-own-wine place
 You are in the mood for some good snacks / bubble tea / froyo / ice cream / desert
 
 If these scenerios sound familiar to you, then hopefully this guide will help you. 
+
+# Table of Contents 
+1. Casual Places / cheap places to eat close to campus 
+2. casual dinners downtwon 
+3. good date places 
+4. bring your own wine 
+5. different best types of ethnic food 
+6. must try places in montreal 
