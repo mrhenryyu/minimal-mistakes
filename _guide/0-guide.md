@@ -82,4 +82,4 @@ website:
 
 {% include feature_row id="five" type="left" %}
 
-{% include feature_row id="six" type="left" %}
+{% include feature_row id="website" type="left" %}
