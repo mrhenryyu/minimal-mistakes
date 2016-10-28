@@ -27,27 +27,11 @@ one:
     btn_class: "btn"
     
 two:
-  - image_path: /guide/website.jpg
-    alt: "Website Part 1 "
-    title: Website Part 1
-    excerpt: "Why you should consider creating your own website."
-    url: "/guide/2"
-    btn_label: "Internet Pt 1" 
-    btn_class: "btn"
-three:
-  - image_path: /guide/website2.jpg
-    alt: "Website Part 2"
-    title: Website Part 2
-    excerpt: "How to make a website for free. "
-    url: "/guide/3"
-    btn_label: "Internet Pt 2" 
-    btn_class: "btn"
-four:
   - image_path: /guide/phones.jpg
     alt: "Phone Plans"
     title: Phone Plans 
     excerpt: "How to get a mobile plan in Montreal, and what to look for what purchasing a plan."
-    url: "/guide/4"
+    url: "/guide/2"
     btn_label: "Phone Plans" 
     btn_class: "btn"
 five:
@@ -55,7 +39,7 @@ five:
     alt: "Internet"
     title: Food + Groceries 
     excerpt: "How to get food + groceries in Montreal."
-    url: "/guide/5"
+    url: "/guide/3"
     btn_label: "Food + Groceries" 
     btn_class: "btn"
 six:
@@ -63,7 +47,7 @@ six:
     alt: "Internet"
     title: Restaurants 
     excerpt: "What to do when you want to eat out."
-    url: "/guide/6"
+    url: "/guide/4"
     btn_label: "Eating Out" 
     btn_class: "btn"
 seven:
@@ -71,9 +55,19 @@ seven:
     alt: "Internet"
     title: Restaurants 
     excerpt: "What to do when you want to eat out."
-    url: "/guide/6"
-    btn_label: "Eating Out" 
+    url: "/guide/5"
+    btn_label: "Bars / Clubs / Parties" 
     btn_class: "btn"
+    
+website:
+  - image_path: /guide/website.jpg
+    alt: "Website "
+    title: How to create your own website FOR FREE 
+    excerpt: "Why you should consider getting a personal website, and how to create one and write blog posts"
+    url: "/guide/website/1"
+    btn_label: "How to Make Your Own Website" 
+    btn_class: "btn"
+
 ---
 
 # Henry's Guide to Living in Montreal
