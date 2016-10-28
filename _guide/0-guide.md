@@ -34,7 +34,7 @@ two:
     url: "/guide/2"
     btn_label: "Phone Plans" 
     btn_class: "btn"
-five:
+three:
   - image_path: /guide/groceries.jpg
     alt: "Internet"
     title: Food + Groceries 
@@ -42,7 +42,7 @@ five:
     url: "/guide/3"
     btn_label: "Food + Groceries" 
     btn_class: "btn"
-six:
+four:
   - image_path: /guide/food.jpg
     alt: "Internet"
     title: Restaurants 
@@ -50,7 +50,7 @@ six:
     url: "/guide/4"
     btn_label: "Eating Out" 
     btn_class: "btn"
-seven:
+five:
   - image_path: /guide/beer.jpg
     alt: "Internet"
     title: Restaurants 
