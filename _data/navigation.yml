@@ -64,3 +64,11 @@ guide:
         url: /guide/5
       - title: "Restaurants"
         url: /guide/6
+  - title: "Building your own website"
+    children:
+      - title: "Why a personal website?"
+        url: /guide/website/1
+      - title: "How to build a site for free"
+        url: /guide/website/2
+      - title: "How to write a blog post"
+        url: /guide/website/3

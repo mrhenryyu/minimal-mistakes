@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /guide/2
+permalink: /guide/website/1
 author_profile: true
 title: "Creating a Website Part 1"
 sidebar:
