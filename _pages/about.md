@@ -20,7 +20,7 @@ resume:
   - image_path: /about/uniform.png
     alt: "Resume"
     title: Resume / Curriculum Vitae
-    excerpt: "A quick and concise rundown of my CV. 1 page format tailored to finance and tech industries."
+    excerpt: "A quick and concise rundown of my CV. 1 page format."
     url: "/about/resume"
     btn_label: "Resume / C.V." 
     btn_class: "btn--success"
