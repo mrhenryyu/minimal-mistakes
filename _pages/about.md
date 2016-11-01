@@ -106,7 +106,8 @@ To compliment my academic and career goals, here are my personal goals I have se
 
 ### **Short term goals**{: .red}:  
 
-1. Maintain a healthy weight by exercising reguarly and maintain going to the gym 5 times / week
-2. Maintain a healthy sleep schedule (sleep at midnight, wake up before 8AM)
-3. Design my own Ruby on Rails application (currently in the process of implimenting)
-5. Blog and document my daily life.
+1. Achieve a good balance between my professional and personal life 
+2. Maintain a healthy weight by continuing to exercising reguarly 
+3. Continue to maintain a healthy sleep schedule 
+4. Designing and implimenting an end-to-end solution for financial data analysis (DCF , multiples)
+4. Become more active on social media and sharing my experiences through blog posts 
