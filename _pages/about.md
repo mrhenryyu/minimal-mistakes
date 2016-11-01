@@ -89,7 +89,7 @@ Every single person has dreams, ambitions and goals. Various things that they wi
 Since people who have written down their goals are **50% more likely** to achieve their goals, it is important for me to write down my short term and long term goals. Through formulating your goals on paper, you are able to formulate a "goal plan". This is the **first step** in achieving your goals. 
 
 ### **Long Term Goal**{: .red} : Become a successful individual in an industry that involves data, technology and finance. 
-My eventual goal is to develop a steady career for myself in an industry that I am passionate about, and doing something that I love. I envision myself working a technical job and doing something that involves a mix of science, technology and finance. I am willing to put in the hard work and planning in order to make this dream a reality.
+My eventual goal is to develop a steady career for myself in an industry that I am passionate about and a job that I love. I envision myself working a job that incorporates in science, technology and finance. I am willing to put my skills to hard work to make this dream a reality.
 
 ### **Five Year Goal**{: .red} : Have an established career as a data analyst / data scientist
 <!--Clear having a clear / established data analyst career involving the latest technology trends, finance and involving etc. -->
