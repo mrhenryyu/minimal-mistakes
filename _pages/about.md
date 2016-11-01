@@ -92,9 +92,11 @@ Since people who have written down their goals are **50% more likely** to achiev
 My eventual goal is to develop a steady career for myself in an industry that I am passionate about, and doing something that I love. Although vague, I envision myself working a technical job and doing something that involves a mix of science, technology and finance. I am willing to put in the hard work and planning in order to make this dream a reality. 
 
 ### **Five Year Goal**{: .red} : Become a data analyst and work in various work environments / locations 
-Within these next 5 years, I want to start to begin creating a name and a career for myself. As my core competency is in research and analysis, being a data analyst is the right fit for me. I aim to learn quickly and work hard in order to hone my skills and progress up the career ladder. As I have a finance and neuroscience background, I wish to incorporate that knowledge into my career down the line. 
+<!--Clear having a clear / established data analyst career involving the latest technology trends, finance and involving etc. -->
+Having a background in science and neuroscience, I can make a contribution on how these skills and knowledge can be combined. I know how the brain works, and I am going to use my neuroscience knowledge in data analysis. (Artifical intelligence) Having a background and neuroscience and finance, I'm looking to put the combination to a higher level / development. I can deliver superior results, I can do something that most people cannot do. 
+Within these next 5 years, I want begin creating a name and a career for myself. As my core competency is in research and analysis, being a data analyst is the right fit for me. I aim to learn quickly and work hard in order to hone my skills and progress up the career ladder. As I have a finance and neuroscience background, I wish to incorporate that knowledge into my career down the line. 
 
-### **One year goal**{: .red} : Begin working as a data analyst for a reputable firm. 
+### **One year goal**{: .red} : Begin working as a data analyst. 
 Over the next year, I want to enter the data analyst or a data scientist.
 
 ## Personal Goals 
@@ -104,8 +106,6 @@ To compliment my academic and career goals, here are my personal goals I have se
 ### **Short term goals**{: .red}:  
 
 1. Maintain a healthy weight by exercising reguarly and maintain going to the gym 5 times / week
-2. 
-3. Sleep latest at midnight and wake up latest at 8am for a minimum of 5 times a week 
-4. Maintain my ketogenic diet for 2 months (currently 1 month in)
-5. Design my own Ruby on Rails application (currently in the process of implimenting)
-6. Blog and document my daily life.
+2. Maintain a healthy sleep schedule (sleep at midnight, wake up before 8AM)
+3. Design my own Ruby on Rails application (currently in the process of implimenting)
+5. Blog and document my daily life.
