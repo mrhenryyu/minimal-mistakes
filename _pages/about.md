@@ -91,7 +91,7 @@ Since people who have written down their goals are **50% more likely** to achiev
 ### **Long Term Goal**{: .red} : Become a successful individual in an industry that involves data, technology and finance. 
 My eventual goal is to develop a steady career for myself in an industry that I am passionate about, and doing something that I love. Although vague, I envision myself working a technical job and doing something that involves a mix of science, technology and finance. I am willing to put in the hard work and planning in order to make this dream a reality. 
 
-### **Five Year Goal**{: .red} : Become a data analyst for a reputable company and work in various work environments / locations 
+### **Five Year Goal**{: .red} : Become a data analyst and work in various work environments / locations 
 Within these next 5 years, I want to start to begin creating a name and a career for myself. As my core competency is in research and analysis, being a data analyst is the right fit for me. I aim to learn quickly and work hard in order to hone my skills and progress up the career ladder. As I have a finance and neuroscience background, I wish to incorporate that knowledge into my career down the line. 
 
 ### **One year goal**{: .red} : Begin working as a data analyst for a reputable firm. 
@@ -99,12 +99,12 @@ Over the next year, I want to enter the data analyst or a data scientist.
 
 ## Personal Goals 
 
-Aside from academic goals, I have personal goals that I have set for myself, in order to improve my physical and mental health, and persona targets I would like to reach. 
+To compliment my academic and career goals, here are my personal goals I have set to improve my physical and mental health. 
 
 ### **Short term goals**{: .red}:  
 
-1. lose weight until I hit my target weight of 175 lbs (currently 185 lbs)
-2. Keep going to the gym a minimum of 5 times a week (currently going 5 times / week)
+1. Maintain a healthy weight by exercising reguarly and maintain going to the gym 5 times / week
+2. 
 3. Sleep latest at midnight and wake up latest at 8am for a minimum of 5 times a week 
 4. Maintain my ketogenic diet for 2 months (currently 1 month in)
 5. Design my own Ruby on Rails application (currently in the process of implimenting)
