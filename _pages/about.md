@@ -110,4 +110,4 @@ To compliment my academic and career goals, here are my personal goals I have se
 2. Maintain a healthy weight by continuing to exercising reguarly 
 3. Continue to maintain a healthy sleep schedule 
 4. Designing and implimenting an end-to-end solution for financial data analysis (DCF , multiples)
-4. Become more active on social media and sharing my experiences through blog posts 
+5. Become more active on social media and sharing my experiences and learn from other's experiences.
