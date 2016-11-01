@@ -95,7 +95,7 @@ My eventual goal is to develop a steady career for myself in an industry that I 
 Within these next 5 years, I want to start to begin creating a name and a career for myself. As my core competency is in research and analysis, being a data analyst is the right fit for me. I aim to learn quickly and work hard in order to hone my skills and progress up the career ladder. As I have a finance and neuroscience background, I wish to incorporate that knowledge into my career down the line. 
 
 ### **One year goal**{: .red} : Begin working as a data analyst for a reputable firm. 
-Over the next year, I want to enter the data analyst market and work for a reputable company. 
+Over the next year, I want to enter the data analyst or a data scientist.
 
 ## Personal Goals 
 
