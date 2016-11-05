@@ -28,4 +28,13 @@ excerpt: " My Fitness Update in 2016 "
 
 ## TL:DR
 
-At the beginning of the summer, I decided to make a change and 
+At the beginning of the summer, I decided to make a change and start living healther. Scratch that, my girlfriend pushed me to start losing weight and gain some muscle. But regardless of the motive, I started my fitness journey and have been going to the gym at least 5 times a week since June 2016 (5 months). 
+
+Between June and now, I have lost 15 pounds, going from over 200 lb down to 185lb. I have lost a significant amouny of fat, and have gained some decent lean muscle mass. I also went on a ketogenic diet for 1.5 months, starting in September, which helped significantly with weight loss. I've never been healthier, and I feel energized and motivated everyday. 
+
+## Why I wanted a change and the motivation behind my change 
+
+In order for you to change your fitness level, I believe that there has to be two components. 
+First, you have to have the willingness and the desire to work out. Fitness has to be something that you absolutely desire. Just like studying, or mastering a subject or learning a new instrument, leading a healthy lifestyle requires learning, research, practice and dedication in order for you to succeed. You must posess the will-power, not just a half-assed desire, or else you will end up with a half-assed result. No supplements or magic pills will give you the result you want, and you must find solice in something to have the dedication and motivation to keep going. 
+
+For myself, the motivation to become fit and change my lifestyle was not initiated within myself. The original spark came from my girlfriend who relently pushed me to start jogging or going to the gym, and then 
