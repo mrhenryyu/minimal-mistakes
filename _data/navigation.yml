@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # main links links
 #main:
 #  - title: "Sample Navigation Link"
@@ -69,17 +69,4 @@ guide:
         url: /guide/website/2
       - title: "How to write a blog post"
         url: /guide/website/3
-=======
-# main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
->>>>>>> mmistakes/master
+

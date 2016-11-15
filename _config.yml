@@ -15,7 +15,6 @@ url                      : "http://henryyu.me" # the base hostname & protocol fo
 baseurl                  : # the subpath of your site, e.g. "/blog"
 
 
-
 repository               : "mrhenryyu/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
@@ -85,6 +84,7 @@ analytics:
 
 # Site Author
 author:
+
 
   name             : "Henry Yu"
   avatar           : "Henry.jpg"
