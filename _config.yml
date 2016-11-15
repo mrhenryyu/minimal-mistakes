@@ -13,13 +13,16 @@ name                     : &name "Henry Yu"
 description              : &description "Henry Yu's Personal Website. "
 url                      : "http://henryyu.me" # the base hostname & protocol for your site 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-<<<<<<< HEAD
+
+
+
 repository               : "mrhenryyu/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 =======
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
->>>>>>> mmistakes/master
+
+
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
 comments:
