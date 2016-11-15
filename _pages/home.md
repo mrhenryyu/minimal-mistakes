@@ -73,6 +73,5 @@ feature_row2:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-> Making this website was not an easy undertaking, it took hours upon hours, long nights and lots of coffee to make this website. This website was not created through Wordpress, Squarespace, Wix or any other website-creating service. This website is made using Jekyll and Ruby, hosted on Github Pages. 
 
 > If you have any questions or any comments about my website, please don't hesitate to contact me [here](/contact). I normally respond within 24 hours (during business days) and I am happy to answer any questions. 
