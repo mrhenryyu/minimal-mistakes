@@ -18,9 +18,6 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 
 repository               : "mrhenryyu/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-=======
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
 
 # breadcrumbs            : false # true, false (default)
@@ -88,19 +85,13 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
+
   name             : "Henry Yu"
   avatar           : "Henry.jpg"
   bio              : "Data Analyst, Neuroscientist, Tech Enthusiast"
   location         : "Montreal, Canada"
   email            : "henry.yu2@mail.mcgill.ca"
-=======
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
->>>>>>> mmistakes/master
+
   uri              :
   bitbucket        :
   codepen          :
