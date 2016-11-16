@@ -7,7 +7,7 @@ categories: [Contact]
 tags: [contact, support]
 
 header:
-    overlay_image: bamboo.jpg  
+    overlay_image: /images/bamboo.jpg  
 
     
 ---
