@@ -18,7 +18,7 @@ repository               : "mrhenryyu/minimal-mistakes" # GitHub username/repo-n
 teaser                   : "/images/teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 150
+words_per_minute         : 100
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:

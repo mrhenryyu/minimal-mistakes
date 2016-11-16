@@ -6,7 +6,7 @@ author_profile: false
     
 title: "Hello"
 header:
-    overlay_image: henry_retouch_left.jpg
+    overlay_image: /images/henry_retouch_left.jpg
     caption: "Photo Credit: Samuel Miriello"
     
 intro: 
@@ -33,21 +33,21 @@ excerpt: "
     and you can check out my [blog](/blog){: .btn .btn--danger .btn--small}"
 
 feature_row:
-  - image_path: /home/tie.png
+  - image_path: /images/home/tie.png
     alt: "Skills & Education"
     title: Skills & Education
     excerpt: "Coming from a neuroscience and finance background, my skillset is adaptable to **numerous industries**."
     url: "/about/skills"
     btn_label: "Skills & Education" 
     btn_class: "btn--success"
-  - image_path: /home/bishop.png
+  - image_path: /images/home/bishop.png
     alt: "Hobbies & Interests"
     title: "Hobbies & Interests"
     excerpt: "I am a huge tech enthusiast, play 3 different instruments and love swimming."
     url: "/about/interests"
     btn_label: "Hobbies & Interests"
     btn_class: "btn--warning"
-  - image_path: /home/pencil.png
+  - image_path: /images/home/pencil.png
     alt: "Blog"
     title: "Blog"
     excerpt: "My daily experiences and my views on various topics can be found here."
@@ -55,7 +55,7 @@ feature_row:
     btn_label: "Blog"
     btn_class: "btn--danger"
 feature_row2:
-  - image_path: /home/lighthouse.png
+  - image_path: /images/home/lighthouse.png
     alt: "Henry's Guide to Surviving McGill"
     title: "Henry's Guide to Surviving McGill"
     excerpt: "As a **McGill**{: .red} graduate, I have accumulated some tips and advice to help you survive your time at **McGill**{: .red}."
