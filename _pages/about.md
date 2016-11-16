@@ -14,10 +14,10 @@ excerpt: "
 permalink: /about/
 
 header:
-    overlay_image: /about/old_profile.jpg
+    overlay_image: /images/about/old_profile.jpg
     
 resume:
-  - image_path: /about/uniform.png
+  - image_path: /images/about/uniform.png
     alt: "Resume"
     title: Resume / Curriculum Vitae
     excerpt: "A quick and concise rundown of my CV. 1 page format."
@@ -26,21 +26,21 @@ resume:
     btn_class: "btn--success"
     
 skills_experience:
-  - image_path: /about/tools.png
+  - image_path: /images/about/tools.png
     alt: "Skills"
     title: Skills
     excerpt: "After 16 years of Canadian education, here are my skills and core competencies."
     url: "/about/skills"
     btn_label: "Skills" 
     btn_class: "btn--warning"
-  - image_path: /about/graduate.png
+  - image_path: /images/about/graduate.png
     alt: "Education and Experience"
     title: Education & Experience
     excerpt: "A comprehensive list of my educational background, work and research experience, extracurricular and volunteer activities."
     url: "/about/experience"
     btn_label: "Education & Experience" 
     btn_class: "btn--danger"
-  - image_path: /about/group.png
+  - image_path: /images/about/group.png
     alt: "Extracurriculars"
     title: Extracurriculars
     excerpt: "A cross section of the extracurricular activities I have participated in and the clubs / organizations I have volunteered for."
@@ -49,7 +49,7 @@ skills_experience:
     btn_class: "btn--info"
 
 interests:
-  - image_path: /about/puzzle.png
+  - image_path: /images/about/puzzle.png
     alt: "Interests & Hobbies"
     title: Interests & Hobbies
     excerpt: "A glimpse into my personality and the things I enjoy."
@@ -58,18 +58,7 @@ interests:
     btn_class: "btn"
     
 ---
-
-<!--feature row 
-    This feature row is to have 4 feature rows with links to showcase my different qualities. 1: Education and training, 
-    2. Skills, 3. experience, 4, extracurriculars : all bundled under skills + education 
-    Next: Interests + hobbies
-        Sports Played: Go to the gym : Fitness, swimming (instructor) + first aid instructor 
-    Resume (FIRST), clear, concise way list 
-    Next: Get to know me, FAQ, views, opinions 
-    Lastly: Goals, ambitions, dreams 
-    RESUM
     
--->
 
 # Welcome to my Personal Page 
 
@@ -92,13 +81,15 @@ Since people who have written down their goals are **50% more likely** to achiev
 My eventual goal is to develop a steady career for myself in an industry that I am passionate about and a job that I love. I envision myself working a job that incorporates in science, technology and finance. I am willing to put my skills to hard work to make this dream a reality.
 
 ### **Five Year Goal**{: .red} : Have an established career as a data analyst / data scientist
-<!--Clear having a clear / established data analyst career involving the latest technology trends, finance and involving etc. -->
+<!--
 (Rough Draft) Having a background in science and neuroscience, I can make a contribution on how these skills and knowledge can be combined. I know how the brain works, and I am going to use my neuroscience knowledge in data analysis. (Artifical intelligence) Having a background and neuroscience and finance, I'm looking to put the combination to a higher level / development. I can deliver superior results, I can do something that most people cannot do. 
 Within these next 5 years, I want begin creating a name and a career for myself. As my core competency is in research and analysis, being a data analyst is the right fit for me. I aim to learn quickly and work hard in order to hone my skills and progress up the career ladder. As I have a finance and neuroscience background, I wish to incorporate that knowledge into my career down the line. 
+-->
 
+With my background in neuroscience and research, I want to begin to establish a name for myself where I incorporate what I have learnt. I aim to learn quickly and work hard in order to hone my skills and progress up the career ladder. 
 
 ### **One year goal**{: .red} : Begin working as a data analyst. 
-Simply put, over the next year, I want to have the change to demonstrate my skills as data analyst or a data scientist. I want to be able to utilize my knowledge and background to provide value to the hiring organization. 
+Simply put, over the next year, I want to have the change to demonstrate my skills as data analyst, data scientist, research analyst or a similar position. I want to be able to utilize my knowledge and background to provide value to the organization and prove my worth.  
 
 ## Personal Goals 
 
@@ -110,4 +101,4 @@ To compliment my academic and career goals, here are my personal goals I have se
 2. Maintain a healthy weight by continuing to exercising reguarly 
 3. Continue to maintain a healthy sleep schedule 
 4. Designing and implimenting an end-to-end solution for financial data analysis (DCF , multiples)
-5. Become more active on social media and sharing my experiences and learn from other's experiences.
+5. Become more active on social media and sharing my experiences while learning from others' experiences.
