@@ -8,7 +8,7 @@ categories: [Review]
 tags: [Logitech, G502, gaming mouse]
 
 header:
-    overlay_image: /blog/g502_review/logitechg502.jpg
+    overlay_image: /images/blog/g502_review/logitechg502.jpg
 excerpt: " My Fitness Update in 2016 " 
 
 ---

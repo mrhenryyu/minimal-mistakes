@@ -4,7 +4,7 @@ layout: single
 permalink: /about/interests
 author_profile: false
 header:
-    overlay_image: /about/hobbies.jpg
+    overlay_image: /images/about/hobbies.jpg
 excerpt: "
     <br>
     <br>

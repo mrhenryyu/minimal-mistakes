@@ -6,7 +6,7 @@ author_profile: false
 sidebar: 
     nav:"about"
 header:
-    overlay_image: /about/desk.jpg
+    overlay_image: /images/about/desk.jpg
 excerpt: "
     <br>
     <br>

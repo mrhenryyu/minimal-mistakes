@@ -15,10 +15,10 @@ excerpt: "
 "
 
 header:
-    overlay_image: /guide/lake.jpg  
+    overlay_image: /images/guide/lake.jpg  
     
 one:
-  - image_path: /guide/internet.jpg
+  - image_path: /images/guide/internet.jpg
     alt: "Internet"
     title: Internet
     excerpt: "How to get internet in Montreal, and what to look for when purchasing a plan."
@@ -27,7 +27,7 @@ one:
     btn_class: "btn"
     
 two:
-  - image_path: /guide/phones.jpg
+  - image_path: /images/guide/phones.jpg
     alt: "Phone Plans"
     title: Phone Plans 
     excerpt: "How to get a mobile plan in Montreal, and what to look for what purchasing a plan."
@@ -35,7 +35,7 @@ two:
     btn_label: "Phone Plans" 
     btn_class: "btn"
 three:
-  - image_path: /guide/groceries.jpg
+  - image_path: /images/guide/groceries.jpg
     alt: "Internet"
     title: Food + Groceries 
     excerpt: "How to get food + groceries in Montreal."
@@ -43,7 +43,7 @@ three:
     btn_label: "Food + Groceries" 
     btn_class: "btn"
 four:
-  - image_path: /guide/food.jpg
+  - image_path: /images/guide/food.jpg
     alt: "Internet"
     title: Restaurants 
     excerpt: "What to do when you want to eat out."
@@ -51,7 +51,7 @@ four:
     btn_label: "Eating Out" 
     btn_class: "btn"
 five:
-  - image_path: /guide/beer.jpg
+  - image_path: /images/guide/beer.jpg
     alt: "Internet"
     title: Bars / Clubs and Parties
     excerpt: "What to do when you want to eat out."
@@ -60,7 +60,7 @@ five:
     btn_class: "btn"
     
 website:
-  - image_path: /guide/website.jpg
+  - image_path: /images/guide/website.jpg
     alt: "Website "
     title: How to create your own website FOR FREE 
     excerpt: "Why you should consider getting a personal website, and how to create one and write blog posts"

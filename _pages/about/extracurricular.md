@@ -6,7 +6,7 @@ author_profile: false
 sidebar: 
     nav:"about"
 header:
-    overlay_image: /about/extracurricular.jpg
+    overlay_image: /images/about/extracurricular.jpg
 excerpt: "
     <br>
     <br>

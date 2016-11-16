@@ -5,7 +5,7 @@ permalink: /guide/website/3
 title: "How to write a Jekyll article"
 
 header:
-    overlay_image: /guide/lake.jpg
+    overlay_image: /images/guide/lake.jpg
 
     
 ---

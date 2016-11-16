@@ -6,7 +6,7 @@ author_profile: false
 sidebar: 
     nav:"about"
 header:
-    overlay_image: /about/toolshed.jpg
+    overlay_image: /images/about/toolshed.jpg
 excerpt: "
     <br>
     <br>

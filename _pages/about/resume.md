@@ -7,7 +7,7 @@ sidebar:
   nav: "about"
 
 header:
-    overlay_image: /about/books.jpg
+    overlay_image: /images/about/books.jpg
     
 excerpt: "
     <br>
