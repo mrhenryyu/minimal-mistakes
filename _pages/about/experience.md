@@ -2,7 +2,7 @@
 title: "**Education and Experience**{: .text-center}"
 layout: single
 permalink: /about/experience
-author_profile: false
+author_profile: true
 sidebar: 
     nav:"about"
 header:
@@ -56,7 +56,8 @@ McGill McIntyre Medical Building - Dr. Stochaj Lab - May 2014 - August 2014
 ### Lifeguard / Aquatic Instructor
 City of Mississauga - Summer 2012 - Summer 2014 
 {: .notice--primary}
-
+  - Opened and closed pool facilities 
+  - Redecorated
 ## Education 
 Courses of interest will be highlighted
 {: .notice--primary}
@@ -74,3 +75,5 @@ Courses of interest will be highlighted
 
 ### Linux EDX Certification 
 
+### CPR Certifications 
+- 

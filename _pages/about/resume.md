@@ -2,7 +2,7 @@
 title: "**Resume & C.V.**{: .text-center}"
 layout: single
 permalink: /about/resume
-author_profile: false
+author_profile: true
 sidebar:
   nav: "about"
 
@@ -18,11 +18,11 @@ excerpt: "
     <br> "
 ---
 
-*** Currently in development *** 
 
-### Finance Resume
-Please check out my 1 page resume 
+# Resume 
+Please note that the resume provided is a one-page condensed resume. A full autobiographical sketch and further information can be found on my Linked-In Profile and on my website [here](/about/)
 
+[DOCX](/assets/download/Henry_Yu_CV_Nov21.docx)
+[PDF](/assets/download/Henry_Yu_CV_Nov21.pdf)
 
-### Data Analyst Resume / CV 
-[DOCX](/assets/download/Henry Yu CV Oct 2016.docx)
+Last Updated: November 21, 2016

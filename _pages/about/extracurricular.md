@@ -2,7 +2,7 @@
 title: "Extracurriculars"
 layout: single
 permalink: /about/extracurricular
-author_profile: false
+author_profile: true
 sidebar: 
     nav:"about"
 header:
@@ -100,19 +100,23 @@ RVC Hall Council President - September 2012 - April 2013
 
 ### McGill Investment Club 
 ACIIC Member and MIC Member - September 2015 - April 2016 
-
+  - Attended ACIIC finance conferences 
+  - volunteered for events, such as the McGill Trading Simulation 
+  
 ### Private Tutor 
 {: .notice--primary}
-  - Tutored a wide variety of students from grade 6 to first year university students
-  - Communicated concepts clearly and elicited a greater degree of understanding for tutees
-  - Most recently, tutored students in undergraduate level freshman calculus, biology and physics 
+  - Tutored a wide variety of students from grade 6 to first year university students in mostly math, biology and chemistry 
+  - Mentored students' with disabilities with Big Brothers' Big Sisters' of Peel for over 2 years 
+
 
 # Activities / Volunteering 
 
 ### DriveSafe 
-DriveSafe Shotgun September 2014 - April 2016 
+Volunteer (Shotgun) September 2014 - April 2016 
 {: .notice--primary}
-  - Helped students get home safely 
+  - answered distress calls from students and organized pickups and dropoffs 
+  - balanced navigating the driver and interacting with passengers and receiving calls 
+  - provided First-Aid when necessary to sick or distressed passengers 
 
 
 ### Making Waves 
