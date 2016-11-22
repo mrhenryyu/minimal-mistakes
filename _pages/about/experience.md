@@ -16,7 +16,7 @@ excerpt: "
     <br> "
 ---
 
-## Laboratory and Career Experience 
+## Laboratory and Career Experience{: .red}
 
 ### Undergraduate Grader / Marker
 FINE 441 (Investment Management) - Professor Sebastien Betermier - January 2016 - April 2016
@@ -58,7 +58,8 @@ City of Mississauga - Summer 2012 - Summer 2014
 {: .notice--primary}
   - Opened and closed pool facilities 
   - Redecorated
-## Education 
+  
+## Education{: .red}
 Courses of interest will be highlighted
 {: .notice--primary}
 
@@ -69,7 +70,7 @@ Courses of interest will be highlighted
 ### McGill Finance Minor 
   - Attended 9 Upper-Year finance courses, with a mimimum of 6 required courses
 
-## Certifications 
+## Certifications{: .red}
 
 ### Udacity Data Scientist Nanodegree (in progress)
 
