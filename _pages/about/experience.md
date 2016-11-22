@@ -1,5 +1,5 @@
 ---
-title: "**Education and Experience**{: .text-center}"
+title: "Education and Experience"
 layout: single
 permalink: /about/experience
 author_profile: true
