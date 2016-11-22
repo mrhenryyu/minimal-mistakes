@@ -2,7 +2,7 @@
 title: "**Skills**{: .text-center}"
 layout: single
 permalink: /about/skills
-author_profile: false
+author_profile: true
 sidebar: 
     nav:"about"
 header:
@@ -51,9 +51,6 @@ While this section is concurrent with my experience / education section / resume
   - **Languages**: English (native), Mandarin (fluent), French (conversational)
 
 
-## Further Information /References
-
-## [Test Link](/about/skills/#programming)
 
 
 
