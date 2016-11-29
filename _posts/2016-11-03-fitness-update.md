@@ -15,16 +15,16 @@ excerpt: " My Fitness Update in 2016 "
 
 # My Body Transformation in 2016 
 
-### Today, I want to share the progress I have made over the past few months and document steps I've taken to ensure better diet and fitness plan. 
+### Today, I want to share the progress I have made over the past few months and document steps I've taken to ensure a better diet and fitness routine. 
 
 ## Table of Contents 
 
 1. TL:DR 
-2. Why I wanted a change 
-3. Main Changes I made 
+2. Reasoning behind recent changes 
+3. Implimentation
 4. Diet 
-5. Mental Change 
-6. Words of Encouragement 
+5. Psychological Changes
+6. Final Thoughts and Advice
 
 ## TL:DR
 
