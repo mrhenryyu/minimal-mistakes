@@ -5,10 +5,10 @@ author_profile: true
 
 date: 2016-11-03
 categories: [Review]
-tags: [Logitech, G502, gaming mouse]
+tags: [fitness, supplements]
 
 header:
-    overlay_image: /images/blog/g502_review/logitechg502.jpg
+    overlay_image: /images/blog/supplements/running.jpg
 excerpt: " What Fitness Supplements You should Take or Avoid " 
 
 ---
