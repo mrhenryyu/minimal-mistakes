@@ -15,22 +15,22 @@ excerpt: " My Fitness Update in 2016 "
 
 # My Body Transformation in 2016 
 
-### Today, I want to share the progress I have made over the past few months and document steps I've taken to ensure better diet and fitness plan. 
+### Today, I want to share the progress I have made over the past few months and document steps I've taken to ensure a better diet and fitness routine. 
 
 ## Table of Contents 
 
 1. TL:DR 
-2. Why I wanted a change 
-3. Main Changes I made 
+2. Reasoning behind recent changes 
+3. Implimentation
 4. Diet 
-5. Mental Change 
-6. Words of Encouragement 
+5. Psychological Changes
+6. Final Thoughts and Advice
 
 ## TL:DR
 
-At the beginning of the summer, I decided to make a change and start living healther. Scratch that, my girlfriend pushed me to start losing weight and gain some muscle. But regardless of the motive, I started my fitness journey and have been going to the gym at least 5 times a week since June 2016 (5 months). 
+At the start of the 2016 summer season, I have finally decided to start making a change in my lifestyle and treat my body correctly. My girlfriend pushed me to start losing weight and gaining lean muscle. Fueled by this change, I have started my fitness journey and have been going to the gym at least 5 times a week since June 2016. 
 
-Between June and now, I have lost 15 pounds, going from over 200 lb down to 185lb. I have lost a significant amouny of fat, and have gained some decent lean muscle mass. I also went on a ketogenic diet for 1.5 months, starting in September, which helped significantly with weight loss. I've never been healthier, and I feel energized and motivated everyday. 
+Starting from June 2016, I have since lost 15 pounds, going from over 200 lb down to 185lb. I have lost a significant amount of fat, and have gained some decent lean muscle mass. I also went on a ketogenic diet for 1.5 months, starting in September, which helped significantly with weight loss. I've never been healthier, and I feel energized and motivated everyday. 
 
 ## Why I wanted a change and the motivation behind my change 
 
