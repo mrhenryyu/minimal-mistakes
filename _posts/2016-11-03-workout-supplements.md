@@ -35,5 +35,14 @@ Before I talk about any supplement in general, I want to warn you that there are
 
 In my opinion, the only successful fitness plan is dicipline, dedication and determination (the 3D's). "Supplements" are only what their name implies: they are there to "supplement" fitness regiment as they will do nothing by themselves. There is no alternative to the fundamentals of a healthy lifestyle: regular exercise, good sleep and a clean and healthy diet. In fact, if you have those three things, you don't need supplements at all: a "clean build" or "clean bulk". Supplements, at the end of the day, are very expensive and are only there to provide you that little bit extra, but are completely not mandatory. 
 
-## TL:DR 
-To focus on supplements 
+## Supplement Rating 
+
+I will bundle the supplements into three groups: 
+
+1. Effective{: .green}
+	These supplements are simply the best supplements on the market. These are the most effective, as well as cost-effective. These supplements have the most scientific research backing their effects and are the most safe to take. 
+	
+2. Somewhat Effective{: .brown}
+	These supplements I consider are somewhat effective. They are the most 
+3. Ineffective{: .red}
+
