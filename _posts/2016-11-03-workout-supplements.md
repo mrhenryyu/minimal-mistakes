@@ -61,8 +61,7 @@ I will bundle the supplements into three groups:
 1. Whey Protein 
 
 ![image](/images/blog/supplements/whey.jpg)
-
-	This is the holy grail of supplements. Whey protein, commonly known as protein powder is derived from the byproduct of whey used in cheese production. It contains a blend of essential and non-essential amino acids blended proportionally for muscle growth. 
+	This is the holy grail of supplements. Whey protein, commonly known as protein powder is derived from the byproduct of whey used in cheese production. It contains a blend of essential and non-essential amino acids blended proportionally for muscle growth. Whey protein is meant to increase your daily protein intake to meet nutritional needs. It also is a cheap and fast way to injest protein post-workout to enhance muscle growth. 
 	
 	
 
