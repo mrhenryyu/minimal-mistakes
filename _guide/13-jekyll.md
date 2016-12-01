@@ -134,5 +134,6 @@ Code snippits and code blocks are easy ways display code or highlight an importa
     ~~~
 ~~~
     
+	
 
 Thank you for reading this article. Please **comment** if you have any questions or suggests for future guides. At some point in the future, I will be covering more advanced topics such as **side-bars, table of contents, text colors and site customization**. 
