@@ -63,6 +63,15 @@ I will bundle the supplements into three groups:
 ![image](/images/blog/supplements/whey.jpg)
 	This is the holy grail of supplements. Whey protein, commonly known as protein powder is derived from the byproduct of whey used in cheese production. It contains a blend of essential and non-essential amino acids blended proportionally for muscle growth. Whey protein is meant to increase your daily protein intake to meet nutritional needs. It also is a cheap and fast way to injest protein post-workout to enhance muscle growth. 
 	
+	Numerous clinical trials and meta-analysis (analysis of several individual trials) have concluded the effectiveness of whey protein in muscle hypertrophy (growth) and its benefits in supplementating your daily protein requirements. It also prevents you from eating tons of bland chicken breast, so it's a win in my books. 
+	
+	My advice for whey protein: get a generic whey protein (without casein or glutamine added in) and purchase it from a cheap but reputable brand. Feel free to use [*BODYBUILDING.COM*](www.bodybuilding.com) or [*LABDOOR*](www.labdoor.com) to help you make your decision. 
+	
+2. Creatine 
+![image](/images/blog/supplements/creatine.jpg)
+
+![image](/images/blog/supplements/preworkout.png)
+	
 	
 
 
