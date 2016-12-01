@@ -45,14 +45,14 @@ There is no alternative to the fundamentals of a healthy lifestyle: regular exer
 
 I will bundle the supplements into three groups: 
 
-1. Effective{: .green}
+1. **Effective**{: .green}
 
 	These supplements are simply the best supplements on the market. These are the most effective, as well as cost-effective. These supplements have the most scientific research backing their effects and are the most safe to take. 
 	
-2. Somewhat Effective{: .brown}
+2. **Somewhat Effective**{: .brown}
 
 	These supplements I consider are somewhat effective. They have been shown to be effective in some situations, but are either questionable in safety or are too expensive to be practical for the general public. Furthermore less research has been conducted on these supplements and very little effects have been shown. 
-3. Ineffective{: .red}
+3. **Ineffective**{: .red}
 
 	These supplements I would shy away from. They are either harmful for your health, have very little to no effect and are expensive. Very little scientific research has been done on these supplements or the scientific community has proven them ineffective. 
 	
