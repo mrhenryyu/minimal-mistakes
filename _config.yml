@@ -81,7 +81,7 @@ analytics:
 
 
   name             : "Henry Yu"
-  avatar           : "Henry.jpg"
+  avatar           : "/images/Henry.jpg"
   bio              : "Data Analyst, Neuroscientist and Tech Enthusiast"
   location         : "Montreal, Canada"
   email            : "henry.yu2@mail.mcgill.ca"
