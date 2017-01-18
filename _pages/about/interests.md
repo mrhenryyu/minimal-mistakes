@@ -36,14 +36,12 @@ In addition, I am also an **avid tech junkie**, and I strive to stay informed ab
 
 Ever since I was young, I enjoyed being outside and playing sports. Even though I was absolutely terrible (in soccer), I enjoyed it, and eventually settled into individual-sports such as swimming and cross-country running. I enjoy these sports the most as it allows me to minimize the number of external variables to depend solely on my own skill and athleticism and focus on self-improvement. 
 
-In high school, I ran cross country and swam at a competitive level, and eventually switched to becoming an aquatic instructor and lifeguard. Currently, 
-I 
+In high school, I ran cross country and swam at a competitive level, and eventually switched to becoming an aquatic instructor and lifeguard. Currently, I am focused on weight-lifting and staying fit by going to the gym at least 4 times a week. 
     
-### Economics / Markets
-    Love economics 
-    - Freakonomics 
-    - markets, finance, data analysis 
-    - learning about various markets and market factors 
-	
-# My Hobbies
+## Economics / Markets
+
+In high school, the class I enjoyed the most was my IB Higher Level Economics class. In university, I avidly participated in my finance classes, since I was extremely passionate about the subject. 
+
+I enjoy economics because economics is about understanding how people behave. How populations behave and make rational decisions can be best shown through economic data. 
+
 
