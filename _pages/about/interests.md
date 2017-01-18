@@ -16,28 +16,28 @@ excerpt: "
     <br> "
 ---
 
-# My Interests
+# **My Interests**{: .red}
 
-It was very difficult for me to condense my hobbies and interests into a few short paragraphs as I believe there are many components that make up my identity and personality. But for the sake of this exercise, my main interests are: technology, fitness and economics. On the other hand, my two favourite hobbies are cooking and exploring. 
+
+As someone who considers themselves more logically and scientifically minded, my passion and interests are in accord with my overall philosophy. My main interests are in **technology, fitness and economics**{: .red} and my hobbies are **swimming, building computers and music**{: .brown}. 
 
 ## Technology 
-    
-Ever since I was little, I was always fascinated with technology. I remember spending hours as a child trying to understand how to use a computer and how the internal components worked. I have fond memories tinkering with my first iPod, from Jailbreaking to installing ROMS to writing short scripts. 
-    
-As I grew older, technology has become a larger and larger portion of my life, and today, I would not be able to live without it. To understand how to use computers better, I've learnt how to code and have taken computer science classes by on my own and in University. I conducted most of my research project using Matlab and have been familiarized with a variety of programming languages. While I do get frustrated if my code doesn't work, or if I cannot find a solution, my passion in technology keeps me motivated to continue on towards finding an answer. 
 
-My passion also lies within computer hardware. I always loved checking out PC specs and getting a great PC and laptop for both gaming and working. I've built my current setup and you can check it out [here](/#) (will be linked when ready)
+![image](/images/about/interests/tech.jpg)
+I would like to believe that I inherited my love for all things electronic through my father, who works in the IT field. I recall spending hours as a child fascinated with the "cool things" that appeared on the CRT screen. I have fond memories tinkering with my first iPod, from Jailbreaking to installing ROMs.  
 
-## Fitness 
+The passion for technology was, in my opinion, cultivated by using the computer for prolonged periods of time in my teenage years, despite the protest of my parents. Today, as with most millenials, I enjoy the benefits that technology provides and **I strive to educate myself on the underlying network and priciples of modern computing**. 
 
-When I was younger, I was pushed by my parents to pursue sports. I initially pushed into soccer and even though I was absolutely terrible (played defence in a house league), I enjoyed it. As a child, I was never too good at sports, and for the longest time, my mediocrity prevented me from actively practicing more and enjoying myself. 
+As part of my undergraduate education, I have learnt the principles of computer programming, algorithms and software development. I've joint the McGill Robotics Team as a *software developer* and have conducted most of my undergraduate neuroscience research project in *Matlab*{: .red}. In addition, I am familiar in *C, Java and Python*{: .red}, especially for scientific analysis *(pandas, numPy)*{: .red}. 
 
-That changed when I 
+In addition, I am also an **avid tech junkie**, and I strive to stay informed about the newest consumer electronics and developments in ESports. 
 
-  - Swimming instructor 
-  - Played club badminton 
-  - GYM everyday 
-  - ketogenic diet 
+## Sports and Fitness 
+
+Ever since I was young, I enjoyed being outside and playing sports. Even though I was absolutely terrible (in soccer), I enjoyed it, and eventually settled into individual-sports such as swimming and cross-country running. I enjoy these sports the most as it allows me to minimize the number of external variables to depend solely on my own skill and athleticism and focus on self-improvement. 
+
+In high school, I ran cross country and swam at a competitive level, and eventually switched to becoming an aquatic instructor and lifeguard. Currently, 
+I 
     
 ### Economics / Markets
     Love economics 

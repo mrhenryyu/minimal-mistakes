@@ -134,8 +134,3 @@ As a customer, I have used EBOX and Bell, so I can only tell about my experience
 EBOX
 I would actually heavily recommend EBOX for students. Not only do they offer competitive prices, they also are reasonable and will lower the price if you explain your ideas clearly and coherently (to a manager). In addition, if you are getting box, use my referral code: YH13 (Shameless plug). Currently in Montreal, I pay $35.99 + taxes for VDSL 25 mbps up / 10 mbps down, 225 GB bandwidth + OFF PEAK internet. I think this is one of the best deals that you can get. 
 
-Promotion: 
-
-If you are unsatisfied with your ISP or mobile phone service, and feel you are getting overcharged by companies, chances are that you actually are. I am an experienced negotiator and have dealt with almost all of the major telecom  / internet companies and I know how to get you to pay less on your monthly bill and to recover previous "bogus charges". 
-
-My fees are $50 / hour, with a minimum of 1 hour. I only charge when I have reduced your bill by a total more than $50 dollars, either in immediate credits to your account, or savings on your monthly bill in the next 12 month period. Furthermore, I will never charge you more than what you are saving on your bill. 
