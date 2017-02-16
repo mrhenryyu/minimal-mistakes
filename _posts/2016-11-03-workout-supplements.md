@@ -61,20 +61,33 @@ I will bundle the supplements into three groups:
 1. Whey Protein 
 
 ![image](/images/blog/supplements/whey.jpg)
-This is the holy grail of supplements. Whey protein, commonly known as protein powder is derived from the byproduct of whey used in cheese production. It contains a blend of essential and non-essential amino acids blended proportionally for muscle growth. Whey protein is meant to increase your daily protein intake to meet nutritional needs. It also is a cheap and fast way to injest protein post-workout to enhance muscle growth. 
+This is the holy grail of supplements. Whey protein, commonly known as protein powder is derived from the byproduct of whey used in cheese production. It contains a blend of essential and non-essential amino acids blended proportionally for muscle growth. Whey protein is meant to increase your daily protein intake to meet nutritional needs. It also is a cheap and fast way to ingest protein post-workout to enhance muscle growth. 
 	
-Numerous clinical trials and meta-analysis (analysis of several individual trials) have concluded the effectiveness of whey protein in muscle hypertrophy (growth) and its benefits in supplementating your daily protein requirements. It also prevents you from eating tons of bland chicken breast, so it's a win in my books. 
+Numerous clinical trials and meta-analysis (analysis of several individual trials) have concluded the effectiveness of whey protein in muscle hypertrophy (growth) and its benefits in supplementing your daily protein requirements. It also prevents you from eating tons of bland chicken breast, so it's a win in my books. 
 	
-My advice for whey protein: get a generic whey protein (without casein or glutamine added in) and purchase it from a cheap but reputable brand. Feel free to use [*BODYBUILDING.COM*](http://www.bodybuilding.com) or [*LABDOOR*](http://www.labdoor.com) to help you make your decision. 
+My advice for whey protein: get a generic whey protein (without casein or glutamine added in) and purchase it from a cheap but reputable brand. Feel free to use [*BODYBUILDING.COM*](http://www.bodybuilding.com) or [*LABDOOR*](http://www.labdoor.com) to help you make your decision.
 	
 2. Creatine 
 ![image](/images/blog/supplements/creatine.jpg)
+
+**Creatine**, a nitrogen based compound found naturally within the body, enhances the human body's energy production, which in turn enhances an athlete's high-intensity training regiment. Increasing creatine levels through supplementation allows the body to create ATP (adenosine tri-phosphate) much faster. While creatine does not directly increase muscle mass, it improves training efficency and gives you "that extra rep" which in turn, increases strength and muscle mass. 
+
+Creatine is one of the most studied supplements, and has been approved by scientists and athletes alike, as numerous studies has proven its safety and efficacy. Research has shown around a 7 - 10 % increase in high-intensity training performance. In addition, creatine, in the form of creatine monohydrate, is an extremely cost-effective supplement. 
 
 ## Somewhat Effective Supplements{: .brown}
 
 1. Preworkout
 ![image](/images/blog/supplements/preworkout.png)
-	
+
+**Preworkout** comes in many shapes and sizes. Most contain ** caffeine** or *other* **stimulants** that keep you *alert and awake* during your workout. They make you **"pumped up"** in hopes to improve your mental state when working out. Some people swear by a certain preworkout, while others don't, or they make their own concoction. 
+
+While preworkouts are great at enhancing your training mentality and getting you "in the zone" for your workout, they are not for everyone. Some people cannot tolerate the caffeine levels while others do not feel any benefit after taking it. In addition to the caffeine present, other chemicals such as beta alanine, or citrulline malate or creatine or BCAAs (Branch Chain Amino Acids) are added in a proportion that may not suit your specific needs or wants. Therefore, it is important to find a preworkout that suits **YOUR** needs and agrees with your *head* AND *stomach*. 
+
+Since preworkouts are somewhat **expensive**, a decent alternative is **coffee and creatine** , since the caffeine and the creatine are the most effective portion of the *preworkout* anyways. 
+
+2. Branch Chain Amino Acids (BCAAs)
+
+Branch Chain Amino Acids are similar to whey protein, however, instead of complete proteins, BCAAs contain 3 indivdual amino acids as single peptides for faster absorption and usage by the body. 
 	
 
 
